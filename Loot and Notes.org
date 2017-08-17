@@ -25,8 +25,7 @@
      - *Sind Kraid* 
        /Seek a man with a silver shawl to redeem Sind/
      - Iza, the Giant Bumblebee
-       #+DOWNLOADED: file:///home/ajs/Documents/RPG%20shit/Hackmaster%20docs/Hackmaster/MeteorD's%20campaign%20-%20The%20Winter%20Kingdom/Notes/bumblebee.png @ 2017-06-15 18:22:48
-       [[file:Notes/bumblebee_2017-06-15_18-22-48.png]]
+       [[file:images/bumblebee.png]]
      - Aflastor the Giant Eagle
      - *The Blue Eagle*
        /Needs our help to save its family/
@@ -37,11 +36,11 @@
      - Ganarra Estree
      - Pixie-Fairy chicks
        - Ano-Da, the stubborn one
-         #+DOWNLOADED: https://s3.amazonaws.com/files.d20.io/images/35628701/6te8ZZngfwtDkYPQdQ5R9w/med.png?1499456403 @ 2017-08-17 16:43:04
-         [[file:Notes/med_2017-08-17_16-43-04.png]]
+        #+DOWNLOADED: https://s3.amazonaws.com/files.d20.io/images/35628701/6te8ZZngfwtDkYPQdQ5R9w/med.png?1499456403 @ 2017-08-17 20:28:24
+        [[file:Plot and Character Notes/med_2017-08-17_20-28-24.png]]
        - Sho-Wa, the shy one
-         #+DOWNLOADED: https://s3.amazonaws.com/files.d20.io/images/35628745/HLg2b2JFCeN2bEqgVW9t1A/med.png?1499456493 @ 2017-08-17 16:43:49
-         [[file:Notes/med_2017-08-17_16-43-49.png]]
+         #+DOWNLOADED: https://s3.amazonaws.com/files.d20.io/images/35628745/HLg2b2JFCeN2bEqgVW9t1A/med.png?1499456493 @ 2017-08-17 20:27:33
+        [[file:Plot and Character Notes/med_2017-08-17_20-27-33.png]]
      - Grodd the Bunny
        Bunny people are known for their ingenuity and advanced tech. Might wanna
        ask her about that.
@@ -302,6 +301,9 @@
       - Exquisite 5 gp dress and veil for Lyra
         - Veil for Landry
 * Rules
+** Houserules etc.
+*** Dropped Missiles
+[[file:images/dropped-missiles.png]]
 ** Crafting
    A Grand Master (skill: 88+d10p) can make +2 stuff 4/10 of the time, +1 5/10
    of the time and normal 1/10 of the time, but requires Masters (50+2d12p) to
