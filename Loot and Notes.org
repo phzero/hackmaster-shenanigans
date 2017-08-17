@@ -370,41 +370,43 @@
 | Eggs (100)             | 8 cp       | 15 lbs      | 0.53 wks      | 7.4k kcal     | 15 cp       | 28 lbs        |
 | Figs                   | 3 cp       | 1 lb        | 0.024 wks     | 0.34 kcal     | 125 cp      | 41.7 lbs      |
 ** Estyr's Spells
-| Number | First Level                      | Second Level                 | Third Level                | Fourth Level               |
-|--------+----------------------------------+------------------------------+----------------------------+----------------------------|
-|      1 | Celestial Prognosis              | Alleviate Trauma             | Alter Emotion: Frighten    | Alert                      |
-|      2 | Ceremony: Consecrate Divine Icon | Bless                        | Bless Weapon               | Command                    |
-|      3 | Extend Fuel                      | Ceremony: Anoint             | Breeze                     | Cure Minor Wound           |
-|      4 | Induce Sobriety                  | Cure Trifling Wound          | Curse, Petty               | Divine Providence          |
-|      5 | Influence, Minor                 | Detect Poison                | Detect Influence           | Divine Steward             |
-|      6 | Know North                       | Know Position                | Endure Cold                | Enchanted Vestments (Unum) |
-|      7 | Moderate Emotion: Reduce Fear    | Moderate Elemental Damage    | Endure Heat                | Faith Shield (Duae)        |
-|      8 | Purify Water                     | Moderate Emotion: Cause Fear | Fortify                    | Identify Poison            |
-|      9 | Sense Divine Magic               | Perspicillum (M2)            | Illumination: Torch        | Inflict Small Wound        |
-|     10 | Sense Presence of Evil           | Purify Food                  | Imperceptibility to Undead | Influence                  |
-|     11 | Sense Presence of Good           | Rejuvenate                   | Improve Vigilance          | Kismet                     |
-|     12 | Translate (M1)                   | Reveal Pits & Snares         | Sterilize                  | Speed of the Devout        |
+| Number | First Level                                    | Second Level                                     | Third Level                                          | Fourth Level                                   |
+|--------+------------------------------------------------+--------------------------------------------------+------------------------------------------------------+------------------------------------------------|
+|      1 | Celestial Prognosis (/tells HP/)               | Alleviate Trauma (/cures ToP/)                   | Alter Emotion: Frighten (/Off. Fear/)                | Alert (/set ally init to cast/)                |
+|      2 | Ceremony: Consecrate Divine Icon               | Bless (/buff/)                                   | Bless Weapon                                         | Command (/Give one order (e.g. die) to enemy/) |
+|      3 | Extend Fuel                                    | Ceremony: Anoint                                 | Breeze (/mild breeze/)                               | Cure Minor Wound                               |
+|      4 | Induce Sobriety                                | Cure Trifling Wound                              | Curse, Petty (/Dbuff/)                               | Divine Providence (/buff: 4 luck points/)      |
+|      5 | Influence, Minor (/emotion increase/decrease/) | Detect Poison                                    | Detect Influence                                     | Divine Steward (/extremely weak servant/)      |
+|      6 | Know North                                     | Know Position                                    | Endure Cold (/-30°F, 6 DR once/)                     | Enchanted Vestments (Unum) (/armor self-buff/) |
+|      7 | Moderate Emotion: Reduce Fear                  | Moderate Elemental Damage (/Def. vs. elemental/) | Endure Heat (/135°F, 6 DR once/)                     | Faith Shield (Duae) (/same as small shield/)   |
+|      8 | Purify Water                                   | Moderate Emotion: Cause Fear                     | Fortify (/Enchant 2d3 food, 1 HP each, max 3/)       | Identify Poison                                |
+|      9 | Sense Divine Magic                             | Perspicillum (M2)                                | Illumination: Torch                                  | Inflict Small Wound (/d8p+1 on touch/)         |
+|     10 | Sense Presence of Evil                         | Purify Food                                      | Imperceptibility to Undead (/if Undead Will<Level/)  | Influence (/Give emotion to uncaring target/)  |
+|     11 | Sense Presence of Good                         | Rejuvenate (/removes fatigue/)                   | Improve Vigilance (/one better init die/)            | Kismet (/Mulligan buff/)                       |
+|     12 | Translate (M1)                                 | Reveal Pits & Snares                             | Sterilize (/e.g. First Aid success on Wounds=level/) | Speed of the Devout (/-1 Speed for 1 attack/)  |
 
-| Number | Fifth Level           | Sixth Level                 | Seventh Level               | Eighth Level               |
-|--------+-----------------------+-----------------------------+-----------------------------+----------------------------|
-|      1 | Blessing              | Faith Shield (Trium)        | Call to Action              | Enchanted Vestments (Duae) |
-|      2 | Ceremony: Investiture | Hold in Place               | Catalepsy                   | Faith Shield (Quattuor)    |
-|      3 | Consecrate Armor      | Holy Blessing               | Cure Lesser Wound           | Find Item                  |
-|      4 | Create Water          | Illumination: Lantern       | Divine Grace                | God's Guidance             |
-|      5 | Cure Small Wound      | Invigorate                  | Mind Reading (M6)           | Inflict Moderate Wound     |
-|      6 | Divine Providence     | Laryngitis                  | Heighten Vigilance          | Polylingualism (M8)        |
-|      7 | Indifference          | Part Stream                 | Hush                        | Rigor Mortis               |
-|      8 | Induce Migraine       | Sense Invisible Beings (M5) | Induce Drunkenness (Wasted) | Strong Breeze              |
-|      9 | Rectify Strain        | Total Control               | Indulgence, Minor           | Treat Disease              |
-|     10 | Stirring Speech       | True Strike                 | Seraphic Weapon             | Treat Poison               |
+| Number | Fifth Level                                | Sixth Level                                        | Seventh Level                                 | Eighth Level                                   |
+|--------+--------------------------------------------+----------------------------------------------------+-----------------------------------------------+------------------------------------------------|
+|      1 | Blessing                                   | Faith Shield (Trium) (/medium shield/)             | Call to Action (/set init to cast/)           | Enchanted Vestments (Duae) (/armor/)           |
+|      2 | Ceremony: Investiture (/Priesthood/)       | Hold in Place (/stuck to ground, -2 combat rolls/) | Catalepsy (/make willing target seem dead/)   | Faith Shield (Quattuor) (/body shield/)        |
+|      3 | Consecrate Armor (/improve armor/)         | Holy Blessing (/+2 atk =/= def, +10% skill/)       | Cure Lesser Wound (/2d4p+2/)                  | Find Item                                      |
+|      4 | Create Water                               | Illumination: Lantern                              | Divine Grace (/target cannot fumble/)         | God's Guidance (/ally roll twice skill check/) |
+|      5 | Cure Small Wound (/d6p+1/)                 | Invigorate (/remove fatigue from 6 people/)        | Mind Reading (M6)                             | Inflict Moderate Wound (/3d4p+2/)              |
+|      6 | +Divine Providence+ Telepathic Mute        | Laryngitis (/mutes victim for ½ hour/)             | Heighten Vigilance (/+1 init die, 2 allies /) | Polylingualism (M8)                            |
+|      7 | Indifference (/make creature neutral/)     | Part Stream (/width =/= depth 10 =/= 30/)          | Hush (/zone of low volume/)                   | Rigor Mortis (/target cannot physical action/) |
+|      8 | Induce Migraine (/-2 dbuff all rolls/)     | Sense Invisible Beings (M5)                        | Induce Drunkenness (Wasted)                   | Strong Breeze                                  |
+|      9 | Rectify Strain (/removes the crit injury/) | Total Control (/immunity to fear/)                 | Indulgence, Minor (/restores lost honor/)     | Treat Disease                                  |
+|     10 | [[Stirring Effects][Stirring Speech]]                            | True Strike (/roll thrice for next atk, pick one/) | Seraphic Weapon (/remote control weapon/)     | Treat Poison                                   |
 
-| Number | Ninth Level                  | Tenth Level         | Eleventh Level                | Twelfth Level               |
-|--------+------------------------------+---------------------+-------------------------------+-----------------------------|
-|      1 | Alleviate Fatigue            | Age                 | Cure Intermediate Wound       | Enchanted Vestments (Trium) |
-|      2 | Decay                        | Analgesic           | Emotion Shielding             | Inflict Large Wound         |
-|      3 | Extinguish                   | Create Campsite     | Fiery Furnace                 | Repair Torn Tendon/Ligament |
-|      4 | Heavenly Luck                | Cure Medium Wound   | Clairoptikos (M9)             | Resist Acid or Caustic      |
-|      5 | Clairaudience (M8)           | Dismiss Enchantment | Mass Influence                | Samar's Beacon (M11)        |
-|      6 | Mend Muscle Tear             | Faith Weaponry      | Miracle Meal                  | Speak to the Dead           |
-|      7 | Remedy Supernatural Deafness | Helping Hand        | Remedy Supernatural Blindness | Stirring Sermon             |
-|      8 | Stirring Oration             | Speed of the Divine | Walk on Water                 | Warding Sigil               |
+| Number | Ninth Level                                     | Tenth Level                                         | Eleventh Level                                           | Twelfth Level                            |
+|--------+-------------------------------------------------+-----------------------------------------------------+----------------------------------------------------------+------------------------------------------|
+|      1 | Alleviate Fatigue (/removes fatigue penalties/) | Age (/ages 2d12p months/)                           | Cure Intermediate Wound (/3d4p+3/)                       | Enchanted Vestments (Trium)              |
+|      2 | Decay (/decays nonliving objects/)              | Analgesic (/buff: -4 to ToP/)                       | Emotion Shielding (/def. vs. mind reading, mental etc./) | Inflict Large Wound (/4d4p+4/)           |
+|      3 | Extinguish (/only for non-magical/)             | Create Campsite (/food, etc. set up/)               | Fiery Furnace (/DR15 vs. fire/)                          | Repair Torn Tendon/Ligament              |
+|      4 | Heavenly Luck (/Mulligan/)                      | Cure Medium Wound (/3d4p+2/)                        | Clairoptikos (M9)                                        | Resist Acid or Caustic (/12 DR/)         |
+|      5 | Clairaudience (M8)                              | Dismiss Enchantment (/end other spell/)             | Mass Influence (/emotion induction/)                     | Samar's Beacon (M11) (/track metal/)     |
+|      6 | Mend Muscle Tear (/fixes that crit injury/)     | Faith Weaponry (/+3 dmg; 5 weapons; 5 succ. atks/)  | Miracle Meal (/7 lbs. food per level/)                   | Speak to the Dead                        |
+|      7 | Remedy Supernatural Deafness                    | Helping Hand (/hand finds and guides person to us/) | Remedy Supernatural Blindness                            | [[Stirring Effects][Stirring Sermon]]                          |
+|      8 | [[Stirring Effects][Stirring Oration]]                                | Speed of the Divine (/-3 speed; 5 attacks)          | Walk on Water (/affects self + 1 per 2 levels above 11/) | Warding Sigil (/magical permanent trap/) |
+*** Stirring Effects
+    [[file:images/stirring-stuff.png]]
