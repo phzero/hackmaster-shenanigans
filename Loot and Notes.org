@@ -1,18 +1,18 @@
 * Loot
 ** Weapons and Armor appraisal
- 1) 2x Shortsword (10 sp ea.)
- 2) 2x Saber (18 sp ea.)
- 3) +3 Excellent Saber  (*?*)
- 4) Cooking Knife (*?*)
- 5) 2x Light Crossbow (35 sp ea.)
- 6) 2x Knife (5 cp ea.)
- 7) 2x Black Leather Armor (Basic Leather Armor: 6 sp)
- 8) Finely woven, very tolerable to damage battle clothing from Banded Krait (*?*)
- 9) 9 small shields (15 sp ea.)
- 10) Black Hood with decorative rim with fine details that would be used by a high
-     ranking individual with a single shoulder pad on one side (*?*)
+ - 2x Shortsword (10 sp ea.)
+ - 2x Saber (18 sp ea.)
+ - +3 Excellent Saber  (*?*)
+ - Cooking Knife (*?*)
+ - 2x Light Crossbow (35 sp ea.)
+ - 2x Knife (5 cp ea.)
+ - 2x Black Leather Armor (Basic Leather Armor: 6 sp)
+ - Finely woven, very tolerable to damage battle clothing from Banded Krait (*?*)
+ - 9 small shields (15 sp ea.)
+ - Black Hood with decorative rim with fine details that would be used by a high
+   ranking individual with a single shoulder pad on one side (*?*)
 ** Misc.
-   1) 15 toy trains (8 sp each for fixed, 3 broken are worthless)
+   - 15 toy trains (8 sp each for fixed, 3 broken are worthless)
 * Plot and Character Notes
   - *Hall of Oaths* will fuck me over wherever they can find me, thanks to the whole mixup in Hell.
     - All of Torakk is now our enemy
@@ -39,8 +39,10 @@
      - Ganarra Estree
      - Pixie-Fairy chicks
        - Ano-Da, the stubborn one
+
         [[file:Plot%20and%20Character%20Notes/med_2017-08-17_20-28-24.png]]
        - Sho-Wa, the shy one
+
         [[file:Plot%20and%20Character%20Notes/med_2017-08-17_20-27-17.png]] 
      - Grodd the Bunny
        
@@ -96,6 +98,10 @@
 ***** Varmorr
 ****** Witches' Assocation
        The five explosive dames
+**** Lands of Torakk
+***** Jorakk Mountains
+    - Mormon Pixie-Fairies' Mother Tree
+    - Sleeping Dragon
 *** Misc.
      - Kerry King the Vampire
 
@@ -298,6 +304,7 @@
    - Beekeeper's Clothes
    - Spellbooks
      - Fantastic Four spell list
+      [[file:spellbook-spells.pdf]]
      - Fritz
    - Maps
      - Good Star Chart
@@ -316,9 +323,11 @@
       - Exquisite 5 gp dress and veil for Lyra
         - Veil for Landry
 * Rules
-** Houserules etc.
+** Houserules, 4th ed. etc.
 *** Dropped Missiles
 [[file:images/dropped-missiles.png]]
+*** Carrying Capacities for Pixie-Fairy mounts
+    [[file:images/carrying-capacities.png]]
 ** Crafting
    A Grand Master (skill: 88+d10p) can make +2 stuff 4/10 of the time, +1 5/10
    of the time and normal 1/10 of the time, but requires Masters (50+2d12p) to

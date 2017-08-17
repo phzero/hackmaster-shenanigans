@@ -16,8 +16,7 @@
   + Level 1 Spells
     - Throw Voice (1)
     - Magic Shield (2)
-    - Shocking Touch (3)
-    - Scorch (4)
+    - Scorch (3;4)
   + Level 2 Spells
     - Slippery Surface (1;4)
     - Illusory Leather Armor (2)
