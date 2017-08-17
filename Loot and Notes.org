@@ -389,11 +389,11 @@
 |--------+--------------------------------------------+----------------------------------------------------+-----------------------------------------------+------------------------------------------------|
 |      1 | Blessing                                   | Faith Shield (Trium) (/medium shield/)             | Call to Action (/set init to cast/)           | Enchanted Vestments (Duae) (/armor/)           |
 |      2 | Ceremony: Investiture (/Priesthood/)       | Hold in Place (/stuck to ground, -2 combat rolls/) | Catalepsy (/make willing target seem dead/)   | Faith Shield (Quattuor) (/body shield/)        |
-|      3 | Consecrate Armor (/improve armor/)         | Holy Blessing (/+2 atk =/= def, +10% skill/)       | Cure Lesser Wound (/2d4p+2/)                  | Find Item                                      |
+|      3 | Consecrate Armor (/improve armor/)         | Holy Blessing (/+2 atk&def, +10% skill/)           | Cure Lesser Wound (/2d4p+2/)                  | Find Item                                      |
 |      4 | Create Water                               | Illumination: Lantern                              | Divine Grace (/target cannot fumble/)         | God's Guidance (/ally roll twice skill check/) |
 |      5 | Cure Small Wound (/d6p+1/)                 | Invigorate (/remove fatigue from 6 people/)        | Mind Reading (M6)                             | Inflict Moderate Wound (/3d4p+2/)              |
 |      6 | +Divine Providence+ Telepathic Mute        | Laryngitis (/mutes victim for ½ hour/)             | Heighten Vigilance (/+1 init die, 2 allies /) | Polylingualism (M8)                            |
-|      7 | Indifference (/make creature neutral/)     | Part Stream (/width =/= depth 10 =/= 30/)          | Hush (/zone of low volume/)                   | Rigor Mortis (/target cannot physical action/) |
+|      7 | Indifference (/make creature neutral/)     | Part Stream (/width;depth 10;30/)                  | Hush (/zone of low volume/)                   | Rigor Mortis (/target cannot physical action/) |
 |      8 | Induce Migraine (/-2 dbuff all rolls/)     | Sense Invisible Beings (M5)                        | Induce Drunkenness (Wasted)                   | Strong Breeze                                  |
 |      9 | Rectify Strain (/removes the crit injury/) | Total Control (/immunity to fear/)                 | Indulgence, Minor (/restores lost honor/)     | Treat Disease                                  |
 |     10 | [[Stirring Effects][Stirring Speech]]                            | True Strike (/roll thrice for next atk, pick one/) | Seraphic Weapon (/remote control weapon/)     | Treat Poison                                   |
