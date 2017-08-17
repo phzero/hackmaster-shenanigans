@@ -1,0 +1,337 @@
+* Loot
+** Weapons and Armor appraisal
+ 1) 2x Shortsword (10 sp ea.)
+ 2) 2x Saber (18 sp ea.)
+ 3) +3 Excellent Saber  (*?*)
+ 4) Cooking Knife (*?*)
+ 5) 2x Light Crossbow (35 sp ea.)
+ 6) 2x Knife (5 cp ea.)
+ 7) 2x Black Leather Armor (Basic Leather Armor: 6 sp)
+ 8) Finely woven, very tolerable to damage battle clothing from Banded Krait (*?*)
+ 9) 9 small shields (15 sp ea.)
+ 10) Black Hood with decorative rim with fine details that would be used by a high
+     ranking individual with a single shoulder pad on one side (*?*)
+** Misc.
+   1) 15 toy trains (8 sp each for fixed, 3 broken are worthless)
+* Plot and Character Notes
+  - *Hall of Oaths* will fuck me over wherever they can find me, thanks to the whole mixup in Hell.
+    - All of Torakk is now our enemy
+  - [[Church of Night's Beauty]] has stopped the Xulith, and are poised to take
+    over the Wild Lands. The followers of Diadolai of the Red Moon could
+    potentially reconstruct the prison of Calvarium.
+** Character and area notes
+*** Companions
+**** Currently in Party
+     - *Sind Kraid* 
+       /Seek a man with a silver shawl to redeem Sind/
+     - Iza, the Giant Bumblebee
+       #+DOWNLOADED: file:///home/ajs/Documents/RPG%20shit/Hackmaster%20docs/Hackmaster/MeteorD's%20campaign%20-%20The%20Winter%20Kingdom/Notes/bumblebee.png @ 2017-06-15 18:22:48
+       [[file:Notes/bumblebee_2017-06-15_18-22-48.png]]
+     - Aflastor the Giant Eagle
+     - *The Blue Eagle*
+       /Needs our help to save its family/
+     - *Lyra Rosetagg*
+       /The original quest, take Lyra to Bynarr/
+     - Rob Kylberg
+     - Landry
+     - Ganarra Estree
+     - Pixie-Fairy chicks
+       - Ano-Da, the stubborn one
+         #+DOWNLOADED: https://s3.amazonaws.com/files.d20.io/images/35628701/6te8ZZngfwtDkYPQdQ5R9w/med.png?1499456403 @ 2017-08-17 16:43:04
+         [[file:Notes/med_2017-08-17_16-43-04.png]]
+       - Sho-Wa, the shy one
+         #+DOWNLOADED: https://s3.amazonaws.com/files.d20.io/images/35628745/HLg2b2JFCeN2bEqgVW9t1A/med.png?1499456493 @ 2017-08-17 16:43:49
+         [[file:Notes/med_2017-08-17_16-43-49.png]]
+     - Grodd the Bunny
+       Bunny people are known for their ingenuity and advanced tech. Might wanna
+       ask her about that.
+     - *Glub Glub*
+       Has magical armor that will grow in the presence of a Pixie-Fairy Mother
+       Tree.
+**** Other location
+     - *Landeir*
+       /Is in a place where there are only gnomes./
+       Is near the Swamp, Mabon knows where
+     - Above K9
+       Last seen headed to Narrajy forest. Qualifies for Mage/Thief Master for
+       Io-Nis, maybe.
+     - Black Mamba
+     - Ur-Quan
+*** Areas
+**** Shynabyth
+     Mother Tree planted itself from a different region to here from Svimohzia in
+     Shynabyth
+***** Archmages of Shynabyth
+      1) Lea (Abandoned Shynabyth)
+      2) Hans (In our Party)
+      3) Deceased Follower
+      4) Deceased Follower
+      5) Deceased Follower
+      6) Possibly Deceased Follower
+      7) Master
+      8) Master
+      9) Master
+**** Slen
+   Sharddy Hills had undead, flesh and bones, wearing the worst armor, the worst
+   weapons, lots of those niggas. Came in fucktons of waves, or so the ghosts said.
+**** Tharggy
+     - Birds have been shot on sight near Tharggy for some reason.
+     - An unnamed, probably dead blacksmith in Tharggy, disappeared after her
+       town was raided by lizardmen.
+       - She has been revealed to be alive, and in a forest north of Tharggy
+**** Kannej Swamp
+    - Sir Edward the Third
+      A knight who rewarded us for freeing the dumbos from the other party. Is married to a total hag.
+    - Sir Asterix
+**** Thybaj
+***** Shyta
+      - Truffle the Blacksmith
+**** Rytarr Woods
+***** Varmorr
+****** Witches' Assocation
+       The five explosive dames
+*** Misc.
+     - Kerry King the Vampire
+        Has marked Wilhace. I'll tell Wilhace to keep his teeth clean. His mansion
+       will appear on the corner of Upper Byth River and Slen.
+     - Harken the Archmage
+     - Shea the trader
+        Red-haired elf trader who rode on a big turtle, to whom we gave a
+       priceless chest of water that could've been turned into wine, because
+       Meteor never realized we had previously turned it into wine.
+     - Leaders of the Frost Giants: Orichalcum, Zodiac and Damascus
+        Are indisputably evil
+     - Devils — like evil 
+     - Cyclopes
+**** Groups
+*** Larger Organizations
+**** Church of Night's Beauty
+**** Courts of Justice
+* Objectives
+** Calamities
+*** Dragon
+**** TODO Speech to the Dragon
+     "If you're listening, O Hallowed One, this is Io-Nis. I wish you
+     congratulations on a job well-and-thoroughly done with Shynabyth. I trust
+     the information I gave you was complete and you found your way there with
+     relative ease, and my directions did not misguide you.
+
+     I understand our behaviour may seem unforgivable at first glance, so I will
+     do my best to explain. This might be a problem, though, because you are a
+     god given physical form. An existence so far above us, we mortals are as
+     lice unto you. This is where the problem starts, because a god cannot lower
+     itself, reduce itself to the thinking of lice. A god cannot, will not and
+     should not understand the thoughts of lowly mortals, because to do so would
+     be a tragedy, the dishonor of having to degrade oneself so far beneath one's
+     station.
+
+     I, however, understand us mortals. And I therefore give a prayer unto you,
+     if you would listen. 
+    
+     Mortals are flighty, desperate, ignorant and weak. As Wilhace has shown,
+     some are cowards. But if it's true that you've been watching us all this
+     time, surely you must've seen Mheel, as well. A mortal, but one willing to
+     wrestle with another god given physical form, even though her life was then
+     forfeit. No coward, simply very determined in her futile desire to do
+     *anything* to face her fear.
+
+     That is what Mabon is doing. That is what all those who oppose you are
+     doing. Because they fear you. They don't understand you. Fear is not
+     respect, they think you mindless because you are so far above them, and so
+     they think their only option for survival is to stop you or die trying, and
+     so the lice will die trying, because there is no stopping you.
+
+     Winged god, nothing less is worthy of your name than lordship and worship of
+     all of the world, but you cannot lower yourself to our level. You cannot
+     understand our cowardice, our weakness and our foolhardiness. And so some
+     will try to fight you, instead of embracing you. And lice never disappear
+     completely. None of those who oppose you could truly harm you, winged god,
+     but even the itch of a flea can be annoying. Annoyance. Constant annoyance
+     for as long as mortals continue to exist yet fail to understand you. But we
+     do differ from lice in one respect, Hallowed One, and that is in that we
+     know how to follow orders.
+
+     You could make a better god-emperor than any mortal king, and with only a
+     little work, the pest that is now an annoyance could be turned into an army
+     supplicated before you in servitude. Because you see, I *do* understand
+     mortals. Mheel had no reason to do all the things she did. She sacrificed
+     her soul, but for what goal? She had none except that I lead her. The same
+     could be said for most of my companions, for entire armies willing to die,
+     because I understand them.
+
+     I would sooner see you ascend the world and make the heavens your throne
+     than the genocidal fools of Kalamar, the self-righteous petulant children of
+     Slen, the arrogant weaklings of Torakk or any of the other mortal pests.
+     Even many of the gods seem less fit to rule than you.
+
+     So I give unto you this prayer, Hallowed One. Speak to me. Let me be your
+     voice and let the world know that you are willing to let the lice live, so
+     long as they know their place. That if they bend their knees to you, that
+     you will be the just, the almighty and the unstoppable leader that they can
+     willingly serve. Forgive us of our sins, and let me administrate your will.
+    
+     I am skilled in the arts of administration, of managing the herds of your
+     servants-to-be. The people, they will listen to your words through me. They
+     will serve you, if only you give us this chance, to prove to all that you
+     will rule us better than the mortals we abandon.
+
+     My wish from last we met is still unfulfilled, but I fear I may not get
+     another chance to answer your question, so let the request I wished of you
+     be thus answered: I have found the whereabouts of the strongest mages in the
+     Wild Lands. There are three candidates of whom I know, a witch, a heretic
+     and a being of the night, but what I have heard is that all the mages of the
+     Wild Lands pale in comparison to the archmages of Kalamar. That all the
+     archmages of Kalamar are of a caliber entirely unlike anything or anyone in
+     the Wild Lands.
+
+     If this is true, then it stands to reason you would enact your divine
+     justice upon them next. So I ask you this: If you have heard our plea, if
+     you will rule us in peace, and be our rightful god-emperor, then burn down
+     first the duchy of Dodera. I do not mean to insinuate that I can tell you
+     what you should or should not do, O Hallowed One. Dodera is simply close to
+     your current location and I wished to inconvenience you least possible. I
+     see no way you could contact us directly, but if Dodera is the first to fall
+     to your flame, whenever you may want to enter Kalamar, then I will know that
+     it is a sign that the mortal kings are dead for good, and the god-emperor
+     long shall reign. I shall then try to find you so that we may plan, so that
+     your decrees may be done, so that I may help you by bringing your will upon
+     the lice.
+
+     If you do not, well... I too am but a louse. One that knows the futility of
+     its attempts to survive, if you do not give this grace unto him, but
+     nonetheless a louse. If I cannot use reason, then I must fall back to
+     instinct. I pray unto you and all the other gods that it not come to that,
+     for undoubtedly I will die and you will be annoyed when the mortals will not
+     be organized to serve you. Thus, I hope that you decide to make your eternal
+     rule as easy for yourself as possible and forgive, and talk with us.
+    
+     Until next we speak, amen."
+**** TODO Gather the Armies
+***** TODO [#A] Devils
+***** TODO [#A] Frost Giants
+***** TODO [#A] Cyclopes
+***** TODO [#B] Tharggy
+***** TODO [#B] Thybaj
+***** TODO [#B] Reeanaria
+***** DONE Torakk                                                    :failed:
+      We managed to convince the King of Torakk to lend us his aid, but he was
+      murdered by his daughter in a coup d'etat, and all of Torakk now wishes us
+      dead.
+***** TODO [#B] Slen
+***** TODO [#C] Rakshasa and friends
+***** TODO [#B] Lich
+***** TODO [#B] Kerry King the Vampire
+***** TODO [#B] Lizardpeople
+**** TODO [#A] Find Mages for Ritual
+***** Candidates
+      1. Io-Nis?
+      2. Lich
+      3. Rakshasa
+      4. Landeir
+      5. Above K9
+      6. 
+***** Confirmed
+      1. Ella
+      2. Mabon
+      3. Hans
+      4. ?
+      5. ?
+*** Calvarium
+   - *Calvarium* can be killed, says Fritz, if he is brought into the real world.
+   - The followers of Diadolai of the Red Moon of the Church of Night's Beauty
+     could potentially reconstruct the prison of Calvarium
+*** Xulith
+**** Powers
+     Immune to magic
+** TODO Reforge the Trollslapper and the Oathkeeper(?)
+     - Blacksmiths capable of doing this are
+       1. Salut the Dwarf (Torakk)
+       2. Truffle (Shyta, Thybaj)
+       3. An unnamed, probably dead blacksmith in Tharggy, disappeared after her
+          town was raided by lizardmen.
+          - She has been revealed to be alive, and in a forest north of Tharggy
+** TODO Theatre Play in Bynarr
+** TODO Escort Lyra to Bynarr
+** Area Quests
+* Special Inventory
+** (Semi-)Magical Items
+   1) Scissors that cut through metal like paper
+   2) Trollslapper +6
+   3) Wand of Water
+   4) +Chestful of Water+
+      We don't actually know if this is magical though.
+      - Turns out it wasn't magical, but we traded it for pipes of expensive weed.
+   5) Magic Shovel
+   6) Hellstone Shovel
+   7) Teleport Ring
+      Oirocalo is the magic word to teleport to the island
+      Teleport around everywhere has unknown activation word
+   8) God-sword shard
+        About 40-50 cm in length, 15 cm in width on average.
+   9) Divine Bark
+   10) Communication Stones
+       - To the three Frost Giant clans
+       - To the Satyrs
+   11) Blessed Yeti-skin Coat
+        Blessed by Harald "Strong" Bardsson. Pixie-Fairy-sized.
+** Tools and Misc.
+   - Pavillion
+   - Portable Alchemist's Lab
+   - ≃14 gp silver ring from Kerry King the vampire lord. Utterly mundane.
+   - +2+ 1 pipe of about 60 gp super-weed
+     - One was smoked by the Passionate One
+   - The Pixie-Fairie girls have about 50-60 knickknacks each worth 50-80 gp
+   - Beekeeper's Clothes
+   - Spellbooks
+     - Fantastic Four spell list
+     - Fritz
+   - Maps
+     - Good Star Chart
+     - Good Continental Map
+   - Spyglass
+*** Personal
+    - Exquisite Pixie-Fairy Dress Gown (10 gp)
+    - Excellent Svimohzian-style Jewelry (6 gp)
+    - Perfumes
+      - 4 oz. Chamomile Water (4sp/oz.)
+      - 0.5 oz. Lavender Extract (12 sp/oz.)
+      - 2 oz. Clove Oil (1 month of my supply 5 sp)
+    - Pixie-Fairy journal
+    - Fine leather garments with fur trim (20 sp)
+    - Servant clothes
+      - Exquisite 5 gp dress and veil for Lyra
+        - Veil for Landry
+* Rules
+** Crafting
+   A Grand Master (skill: 88+d10p) can make +2 stuff 4/10 of the time, +1 5/10
+   of the time and normal 1/10 of the time, but requires Masters (50+2d12p) to
+   do what Apprentices usually would do, and High Masters (75+d12p) doing what
+   Journeymen would ordinarily do.
+** Abusables
+   - Bottomless Pouch
+   - Flaming Missiles
+   - Explosive Script
+     - Attach posters to ballista arrows
+     - Make cannons using the explosive force of the script
+** [[file:~/Documents/RPG%20shit/Hackmaster%20docs/Hackmaster/foodstuffs.org][Foodstuff]] Table
+	| Weekly costs     |           |          |
+	|------------------+-----------+----------|
+	| Preserved fruit  | 3 cp 5 tc | 7 lbs    |
+	| Sailor's Sausage | 20 cp     | 15 lbs   |
+	| Salted Fish      | 3 cp      | 21 lbs   |
+	| Trail Rations    | 50 cp     | 25 lbs   |
+	| Corn Dodgers     | 25 cp     | 37.5 lbs |
+	| Standard Rations | 5 cp      | 50 lbs   |
+
+| Foodstuff              | Unit Price | Unit Weight | Unit Duration | Unit Calories | Weekly Cost | Weekly Weight |
+|------------------------+------------+-------------+---------------+---------------+-------------+---------------|
+| /                      |            |             |               |               | <           | >             |
+| Butter                 | 2 cp       | 1 lb        | 0.233 wks     | 3.3k kcal     | 9 cp        | 4.48 lbs      |
+| Nuts                   | 10 cp      | 1 lb        | 0.195 wks     | 2.7k kcal     | 51.3 cp     | 5.13 lbs      |
+| Coarse Sugar           | 50 cp      | 1 lb        | 0.12 wks      | 1.7k kcal     | 416 cp      | 8.3 lbs       |
+| Rice                   | 2 cp       | 1 lb        | 0.12 wks      | 1.7k kcal     | 16.7 cp     | 8.33 lbs      |
+| Raisins                | 2 cp       | 1 lb        | 0.097 wks     | 1.4k kcal     | 20.6 cp     | 11 lbs        |
+| Eggs (2 dz)            | 2 cp       | 3 lbs       | 0.127 wks     | 1.8k kcal     | 15.75 cp    | 24 lbs        |
+| Barrel of Pickled Fish | 30 cp      | 500 lbs     | 19.8 wks      | 278k kcal     | 1.5 cp      | 25 lbs        |
+| Eggs (100)             | 8 cp       | 15 lbs      | 0.53 wks      | 7.4k kcal     | 15 cp       | 28 lbs        |
+| Figs                   | 3 cp       | 1 lb        | 0.024 wks     | 0.34 kcal     | 125 cp      | 41.7 lbs      |

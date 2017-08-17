@@ -1,0 +1,47 @@
+#+LATEX_HEADER: \usepackage{multicol}
+#+OPTIONS: toc:nil
+#+LATEX: \begin{multicols}{2}
+  + Apprentice Spells
+    - Permanent Mark (1;3)
+    - Phantom Irritation (1)
+    - Aura of Innocence (2)
+    - Amplify Illumination (2)
+    - Buoyancy (3)
+    - Repair (4)
+    - Fire Finger (4)
+  + Journeyman Spells
+    - Tireless Run (1)
+    - Audible Clamor (2;4)
+    - Enrage (3)
+  + Level 1 Spells
+    - Throw Voice (1)
+    - Magic Shield (2)
+    - Shocking Touch (3)
+    - Scorch (4)
+  + Level 2 Spells
+    - Slippery Surface (1;4)
+    - Illusory Leather Armor (2)
+    - Shocking Touch (3)
+  + Level 3 Spells
+    - White Hot Metal (1)
+    - Pyrotechnic Display (2)
+    - Flaming Missiles (3)
+    - Bedazzle (4)
+  + Level 4 Spells
+    - Motion Blur (1)
+    - Lesser Memory Wipe (2)
+    - Magic Projectile of Skewering (3;4)
+  + Level 5 Spells (Book 4 ends here)
+    - Summoning 1 (1)
+    - Munz's Bolt of Acid (2)
+    - Sense Invisible Beings (3)
+    - Entrancing Lightshow (4)
+  + Level 6 Spells (Book 2 ends here)
+    - Find Item (1;2)
+    - Immunity to Apprentice Magic (3)
+  + Level 7 Spells (Book 1 ends here)
+    - Induce Nervousness (1)
+    - Induce Fratricide (3)
+  + Level 8 Spells (Book 3 ends here)
+    - Sure Grip Snare (3)
+#+LATEX: \end{multicols}
