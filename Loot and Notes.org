@@ -23,43 +23,49 @@
 *** Companions
 **** Currently in Party
      - *Sind Kraid* 
-       /Seek a man with a silver shawl to redeem Sind/
+
+        /Seek a man with a silver shawl to redeem Sind/
      - Iza, the Giant Bumblebee
        [[file:images/bumblebee.png]]
      - Aflastor the Giant Eagle
      - *The Blue Eagle*
-       /Needs our help to save its family/
+
+        /Needs our help to save its family/
      - *Lyra Rosetagg*
-       /The original quest, take Lyra to Bynarr/
+
+        /The original quest, take Lyra to Bynarr/
      - Rob Kylberg
      - Landry
      - Ganarra Estree
      - Pixie-Fairy chicks
        - Ano-Da, the stubborn one
-        #+DOWNLOADED: https://s3.amazonaws.com/files.d20.io/images/35628701/6te8ZZngfwtDkYPQdQ5R9w/med.png?1499456403 @ 2017-08-17 20:28:24
-        [[file:Plot and Character Notes/med_2017-08-17_20-28-24.png]]
+        [[file:Plot%20and%20Character%20Notes/med_2017-08-17_20-28-24.png]]
        - Sho-Wa, the shy one
-         #+DOWNLOADED: https://s3.amazonaws.com/files.d20.io/images/35628745/HLg2b2JFCeN2bEqgVW9t1A/med.png?1499456493 @ 2017-08-17 20:27:33
-        [[file:Plot and Character Notes/med_2017-08-17_20-27-33.png]]
+        [[file:Plot%20and%20Character%20Notes/med_2017-08-17_20-27-17.png]] 
      - Grodd the Bunny
-       Bunny people are known for their ingenuity and advanced tech. Might wanna
+       
+        Bunny people are known for their ingenuity and advanced tech. Might wanna
        ask her about that.
      - *Glub Glub*
-       Has magical armor that will grow in the presence of a Pixie-Fairy Mother
+
+        Has magical armor that will grow in the presence of a Pixie-Fairy Mother
        Tree.
 **** Other location
      - *Landeir*
-       /Is in a place where there are only gnomes./
-       Is near the Swamp, Mabon knows where
+
+        /Is in a place where there are only gnomes./
+
+        Is near the Swamp, Mabon knows where
      - Above K9
-       Last seen headed to Narrajy forest. Qualifies for Mage/Thief Master for
+
+        Last seen headed to Narrajy forest. Qualifies for Mage/Thief Master for
        Io-Nis, maybe.
      - Black Mamba
      - Ur-Quan
 *** Areas
 **** Shynabyth
-     Mother Tree planted itself from a different region to here from Svimohzia in
-     Shynabyth
+     Mother Tree planted itself from a different region to here from Svimohzia
+     in Shynabyth
 ***** Archmages of Shynabyth
       1) Lea (Abandoned Shynabyth)
       2) Hans (In our Party)
@@ -80,7 +86,8 @@
        - She has been revealed to be alive, and in a forest north of Tharggy
 **** Kannej Swamp
     - Sir Edward the Third
-      A knight who rewarded us for freeing the dumbos from the other party. Is married to a total hag.
+
+        A knight who rewarded us for freeing the dumbos from the other party. Is married to a total hag.
     - Sir Asterix
 **** Thybaj
 ***** Shyta
@@ -91,14 +98,17 @@
        The five explosive dames
 *** Misc.
      - Kerry King the Vampire
+
         Has marked Wilhace. I'll tell Wilhace to keep his teeth clean. His mansion
        will appear on the corner of Upper Byth River and Slen.
      - Harken the Archmage
      - Shea the trader
+
         Red-haired elf trader who rode on a big turtle, to whom we gave a
        priceless chest of water that could've been turned into wine, because
        Meteor never realized we had previously turned it into wine.
      - Leaders of the Frost Giants: Orichalcum, Zodiac and Damascus
+
         Are indisputably evil
      - Devils — like evil 
      - Cyclopes
@@ -258,20 +268,25 @@
    2) Trollslapper +6
    3) Wand of Water
    4) +Chestful of Water+
+      
       We don't actually know if this is magical though.
       - Turns out it wasn't magical, but we traded it for pipes of expensive weed.
    5) Magic Shovel
    6) Hellstone Shovel
    7) Teleport Ring
+
       Oirocalo is the magic word to teleport to the island
+
       Teleport around everywhere has unknown activation word
    8) God-sword shard
+
         About 40-50 cm in length, 15 cm in width on average.
    9) Divine Bark
    10) Communication Stones
        - To the three Frost Giant clans
        - To the Satyrs
    11) Blessed Yeti-skin Coat
+
         Blessed by Harald "Strong" Bardsson. Pixie-Fairy-sized.
 ** Tools and Misc.
    - Pavillion
