@@ -1,4 +1,5 @@
 * Loot
+[[file:images/quality-item-resale.png]]
 ** Weapons and Armor appraisal
  - 2x Shortsword (10 sp ea.)
  - 2x Saber (18 sp ea.)
@@ -325,9 +326,15 @@
 * Rules
 ** Houserules, 4th ed. etc.
 *** Dropped Missiles
-[[file:images/dropped-missiles.png]]
+    [[file:images/dropped-missiles.png]]
 *** Carrying Capacities for Pixie-Fairy mounts
     [[file:images/carrying-capacities.png]]
+*** Power Runes and Tattoos
+    [[file:images/power-runes.png]]
+    [[file:images/tattoos.png]]
+    [[file:images/4th-ed-rune-spells.png]]
+*** Flying Travel Speeds
+    [[file:images/flying-speed.png]]
 ** Crafting
    A Grand Master (skill: 88+d10p) can make +2 stuff 4/10 of the time, +1 5/10
    of the time and normal 1/10 of the time, but requires Masters (50+2d12p) to
@@ -339,6 +346,7 @@
    - Explosive Script
      - Attach posters to ballista arrows
      - Make cannons using the explosive force of the script
+   - Fracture Object has no saving throw
 ** [[file:~/Documents/RPG%20shit/Hackmaster%20docs/Hackmaster/foodstuffs.org][Foodstuff]] Table
 	| Weekly costs     |           |          |
 	|------------------+-----------+----------|
@@ -361,3 +369,42 @@
 | Barrel of Pickled Fish | 30 cp      | 500 lbs     | 19.8 wks      | 278k kcal     | 1.5 cp      | 25 lbs        |
 | Eggs (100)             | 8 cp       | 15 lbs      | 0.53 wks      | 7.4k kcal     | 15 cp       | 28 lbs        |
 | Figs                   | 3 cp       | 1 lb        | 0.024 wks     | 0.34 kcal     | 125 cp      | 41.7 lbs      |
+** Estyr's Spells
+| Number | First Level                      | Second Level                 | Third Level                | Fourth Level               |
+|--------+----------------------------------+------------------------------+----------------------------+----------------------------|
+|      1 | Celestial Prognosis              | Alleviate Trauma             | Alter Emotion: Frighten    | Alert                      |
+|      2 | Ceremony: Consecrate Divine Icon | Bless                        | Bless Weapon               | Command                    |
+|      3 | Extend Fuel                      | Ceremony: Anoint             | Breeze                     | Cure Minor Wound           |
+|      4 | Induce Sobriety                  | Cure Trifling Wound          | Curse, Petty               | Divine Providence          |
+|      5 | Influence, Minor                 | Detect Poison                | Detect Influence           | Divine Steward             |
+|      6 | Know North                       | Know Position                | Endure Cold                | Enchanted Vestments (Unum) |
+|      7 | Moderate Emotion: Reduce Fear    | Moderate Elemental Damage    | Endure Heat                | Faith Shield (Duae)        |
+|      8 | Purify Water                     | Moderate Emotion: Cause Fear | Fortify                    | Identify Poison            |
+|      9 | Sense Divine Magic               | Perspicillum (M2)            | Illumination: Torch        | Inflict Small Wound        |
+|     10 | Sense Presence of Evil           | Purify Food                  | Imperceptibility to Undead | Influence                  |
+|     11 | Sense Presence of Good           | Rejuvenate                   | Improve Vigilance          | Kismet                     |
+|     12 | Translate (M1)                   | Reveal Pits & Snares         | Sterilize                  | Speed of the Devout        |
+
+| Number | Fifth Level           | Sixth Level                 | Seventh Level               | Eighth Level               |
+|--------+-----------------------+-----------------------------+-----------------------------+----------------------------|
+|      1 | Blessing              | Faith Shield (Trium)        | Call to Action              | Enchanted Vestments (Duae) |
+|      2 | Ceremony: Investiture | Hold in Place               | Catalepsy                   | Faith Shield (Quattuor)    |
+|      3 | Consecrate Armor      | Holy Blessing               | Cure Lesser Wound           | Find Item                  |
+|      4 | Create Water          | Illumination: Lantern       | Divine Grace                | God's Guidance             |
+|      5 | Cure Small Wound      | Invigorate                  | Mind Reading (M6)           | Inflict Moderate Wound     |
+|      6 | Divine Providence     | Laryngitis                  | Heighten Vigilance          | Polylingualism (M8)        |
+|      7 | Indifference          | Part Stream                 | Hush                        | Rigor Mortis               |
+|      8 | Induce Migraine       | Sense Invisible Beings (M5) | Induce Drunkenness (Wasted) | Strong Breeze              |
+|      9 | Rectify Strain        | Total Control               | Indulgence, Minor           | Treat Disease              |
+|     10 | Stirring Speech       | True Strike                 | Seraphic Weapon             | Treat Poison               |
+
+| Number | Ninth Level                  | Tenth Level         | Eleventh Level                | Twelfth Level               |
+|--------+------------------------------+---------------------+-------------------------------+-----------------------------|
+|      1 | Alleviate Fatigue            | Age                 | Cure Intermediate Wound       | Enchanted Vestments (Trium) |
+|      2 | Decay                        | Analgesic           | Emotion Shielding             | Inflict Large Wound         |
+|      3 | Extinguish                   | Create Campsite     | Fiery Furnace                 | Repair Torn Tendon/Ligament |
+|      4 | Heavenly Luck                | Cure Medium Wound   | Clairoptikos (M9)             | Resist Acid or Caustic      |
+|      5 | Clairaudience (M8)           | Dismiss Enchantment | Mass Influence                | Samar's Beacon (M11)        |
+|      6 | Mend Muscle Tear             | Faith Weaponry      | Miracle Meal                  | Speak to the Dead           |
+|      7 | Remedy Supernatural Deafness | Helping Hand        | Remedy Supernatural Blindness | Stirring Sermon             |
+|      8 | Stirring Oration             | Speed of the Divine | Walk on Water                 | Warding Sigil               |

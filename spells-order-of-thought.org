@@ -1,0 +1,38 @@
+| Number | First Level                      | Second Level                 | Third Level                | Fourth Level               |
+|--------+----------------------------------+------------------------------+----------------------------+----------------------------|
+|      1 | Celestial Prognosis              | Alleviate Trauma             | Alter Emotion: Frighten    | Alert                      |
+|      2 | Ceremony: Consecrate Divine Icon | Bless                        | Bless Weapon               | Command                    |
+|      3 | Extend Fuel                      | Ceremony: Anoint             | Breeze                     | Cure Minor Wound           |
+|      4 | Induce Sobriety                  | Cure Trifling Wound          | Curse, Petty               | Divine Providence          |
+|      5 | Influence, Minor                 | Detect Poison                | Detect Influence           | Divine Steward             |
+|      6 | Know North                       | Know Position                | Endure Cold                | Enchanted Vestments (Unum) |
+|      7 | Moderate Emotion: Reduce Fear    | Moderate Elemental Damage    | Endure Heat                | Faith Shield (Duae)        |
+|      8 | Purify Water                     | Moderate Emotion: Cause Fear | Fortify                    | Identify Poison            |
+|      9 | Sense Divine Magic               | Perspicillum (M2)            | Illumination: Torch        | Inflict Small Wound        |
+|     10 | Sense Presence of Evil           | Purify Food                  | Imperceptibility to Undead | Influence                  |
+|     11 | Sense Presence of Good           | Rejuvenate                   | Improve Vigilance          | Kismet                     |
+|     12 | Translate (M1)                   | Reveal Pits & Snares         | Sterilize                  | Speed of the Devout        |
+
+| Number | Fifth Level           | Sixth Level                 | Seventh Level               | Eighth Level               |
+|--------+-----------------------+-----------------------------+-----------------------------+----------------------------|
+|      1 | Blessing              | Faith Shield (Trium)        | Call to Action              | Enchanted Vestments (Duae) |
+|      2 | Ceremony: Investiture | Hold in Place               | Catalepsy                   | Faith Shield (Quattuor)    |
+|      3 | Consecrate Armor      | Holy Blessing               | Cure Lesser Wound           | Find Item                  |
+|      4 | Create Water          | Illumination: Lantern       | Divine Grace                | God's Guidance             |
+|      5 | Cure Small Wound      | Invigorate                  | Mind Reading (M6)           | Inflict Moderate Wound     |
+|      6 | Divine Providence     | Laryngitis                  | Heighten Vigilance          | Polylingualism (M8)        |
+|      7 | Indifference          | Part Stream                 | Hush                        | Rigor Mortis               |
+|      8 | Induce Migraine       | Sense Invisible Beings (M5) | Induce Drunkenness (Wasted) | Strong Breeze              |
+|      9 | Rectify Strain        | Total Control               | Indulgence, Minor           | Treat Disease              |
+|     10 | Stirring Speech       | True Strike                 | Seraphic Weapon             | Treat Poison               |
+
+| Number | Ninth Level                  | Tenth Level         | Eleventh Level                | Twelfth Level               |
+|--------+------------------------------+---------------------+-------------------------------+-----------------------------|
+|      1 | Alleviate Fatigue            | Age                 | Cure Intermediate Wound       | Enchanted Vestments (Trium) |
+|      2 | Decay                        | Analgesic           | Emotion Shielding             | Inflict Large Wound         |
+|      3 | Extinguish                   | Create Campsite     | Fiery Furnace                 | Repair Torn Tendon/Ligament |
+|      4 | Heavenly Luck                | Cure Medium Wound   | Clairoptikos (M9)             | Resist Acid or Caustic      |
+|      5 | Clairaudience (M8)           | Dismiss Enchantment | Mass Influence                | Samar's Beacon (M11)        |
+|      6 | Mend Muscle Tear             | Faith Weaponry      | Miracle Meal                  | Speak to the Dead           |
+|      7 | Remedy Supernatural Deafness | Helping Hand        | Remedy Supernatural Blindness | Stirring Sermon             |
+|      8 | Stirring Oration             | Speed of the Divine | Walk on Water                 | Warding Sigil               |
