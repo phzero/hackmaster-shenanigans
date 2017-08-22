@@ -233,7 +233,10 @@
       We managed to convince the King of Torakk to lend us his aid, but he was
       murdered by his daughter in a coup d'etat, and all of Torakk now wishes us
       dead.
-***** TODO [#B] Slen
+***** DONE Slen                                                     :success:
+      CLOSED: [2017-08-22 Tue 19:19]
+      The Church of the Night's Beauty has promised the aid of the Xulith. If we
+      manage to get it back alive, they'll even help us with Calvarium.
 ***** TODO [#C] Rakshasa and friends
 ***** TODO [#B] Lich
 ***** TODO [#B] Kerry King the Vampire
@@ -241,11 +244,17 @@
 **** TODO [#A] Find Mages for Ritual
 ***** Candidates
       1. Io-Nis?
-      2. Lich
-      3. Rakshasa
-      4. Landeir
-      5. Above K9
-      6. 
+      2. The Blacksmith
+      3. Landeir
+      4. Above K9
+      5. The Witch of the Kannej Swamp (Lea the Betrayer?)
+      6. The Witches' Association
+      7. The Pixie-Fairies of Shynabyth
+      8. The Pixie-Fairies of the Jorakk Mountains
+      9. Lich (Evil)
+      10. Rakshasa (Evil)
+      11. The Eagle Wizard (Evil?)
+      12. The Archmages of Shynabyth (ew) (Evil)
 ***** Confirmed
       1. Ella
       2. Mabon
@@ -256,6 +265,9 @@
    - *Calvarium* can be killed, says Fritz, if he is brought into the real world.
    - The followers of Diadolai of the Red Moon of the Church of Night's Beauty
      could potentially reconstruct the prison of Calvarium
+   - If we manage to get the Xulith back alive from the fight with the Dragon,
+     the Relius Kendran, the Patriarch of Pelselond, has promised to lend his
+     aid in dealing with Calvarium.
 *** Xulith
 **** Powers
      Immune to magic
@@ -291,6 +303,7 @@
    9) Divine Bark
    10) Communication Stones
        - To the three Frost Giant clans
+         - Orichalcum
        - To the Satyrs
    11) Blessed Yeti-skin Coat
 
@@ -340,6 +353,13 @@
    of the time and normal 1/10 of the time, but requires Masters (50+2d12p) to
    do what Apprentices usually would do, and High Masters (75+d12p) doing what
    Journeymen would ordinarily do.
+*** Craft: Alchemy
+**** Minor Healing Potion
+**** Tonic of Fool's Gold
+     Can be applied to metal, to change its properties to those of riches.
+     
+     Ingredients can probably be bought easily in a city, but it has to be made
+     in a golden cauldron.
 ** Abusables
    - Bottomless Pouch
    - Flaming Missiles
