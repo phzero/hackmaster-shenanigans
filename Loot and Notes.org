@@ -247,13 +247,14 @@
       2. The Blacksmith
       3. Landeir
       4. Above K9
-      5. The Witch of the Kannej Swamp (Lea the Betrayer?)
+      5. The Witch of the Kannej Swamp
       6. The Witches' Association
       7. The Pixie-Fairies of Shynabyth
       8. The Pixie-Fairies of the Jorakk Mountains
       9. Lich (Evil)
+         - Always just watch your language.
       10. Rakshasa (Evil)
-      11. The Eagle Wizard (Evil?)
+      11. Harken The Eagle Wizard (Evil?)
       12. The Archmages of Shynabyth (ew) (Evil)
 ***** Confirmed
       1. Ella
@@ -261,6 +262,34 @@
       3. Hans
       4. ?
       5. ?
+**** TODO Prepare the loot wagons
+     There is no doubt that killing the dragon will provide an incredibly
+     lucrative opportunity to make use of its corpse.
+***** Body Part List
+     - Hide
+     - Claws
+     - Pumpkins
+     - Eyes
+     - Organs
+       - Heart
+       - Liver
+       - Kidneys
+       - Lungs
+       - Eyes
+     - Fire gland
+     - Blood
+       - Dipping jewelry for great justice
+     - Tongue
+     - Veins
+     - Meat
+     - Bones
+     - Tendons
+     - Vocal cords
+     - Wings
+     - Saliva (spell component for fire spells, deals +1d10p)
+     - Horns
+     - Tailspikes
+     - Catgut from intestines
 *** Calvarium
    - *Calvarium* can be killed, says Fritz, if he is brought into the real world.
    - The followers of Diadolai of the Red Moon of the Church of Night's Beauty
@@ -269,6 +298,7 @@
      the Relius Kendran, the Patriarch of Pelselond, has promised to lend his
      aid in dealing with Calvarium.
 *** Xulith
+    The further back you are of the snake, the more it's capable of taking damage.
 **** Powers
      Immune to magic
 ** TODO Reforge the Trollslapper and the Oathkeeper(?)
@@ -277,8 +307,18 @@
        2. Truffle (Shyta, Thybaj)
        3. An unnamed, probably dead blacksmith in Tharggy, disappeared after her
           town was raided by lizardmen.
-          - She has been revealed to be alive, and in a forest north of Tharggy
+          - She has been revealed to be alive, and in the Ryakk Woods north of Tharggy
+     Ideally, the Oathkeeper should be reforged to at least a Petite Lance and a
+     Petite Rapier made for defense. Possible modifications could be using the
+     Divine Bark for the hilt, the dragon's hide for the hilt's wrappings, maybe
+     using the Scissors for a basket hilt guard for the rapier.
 ** TODO Theatre Play in Bynarr
+*** Organization
+**** Class-divided performances
+     - Lower class: free, but no acting, just someone reading the play.
+     - Mid-class: Paid actors
+     - Noble Class: Me
+**** Merchandise
 ** TODO Escort Lyra to Bynarr
 ** Area Quests
 * Special Inventory
@@ -299,7 +339,7 @@
       Teleport around everywhere has unknown activation word
    8) God-sword shard
 
-        About 40-50 cm in length, 15 cm in width on average.
+        About 40-50 cm in length, 15 cm in width on average. Assuming half-inch thickness (1.27 cm), it's about 8 kg.
    9) Divine Bark
    10) Communication Stones
        - To the three Frost Giant clans
@@ -359,7 +399,12 @@
      Can be applied to metal, to change its properties to those of riches.
      
      Ingredients can probably be bought easily in a city, but it has to be made
-     in a golden cauldron.
+     in a golden cauldron of at least 20 liters. 
+
+     For half-sphere, $V = \frac{2}{3} \pi r_{inner}^3$ meaning that for $V = 20
+     L$, inner radius must be 21.216 cm. Assuming a thickness of 0.476 cm, this
+     results in outer radius 21.916 cm, and a volume of gold: 
+     $V_{out}-V_{in} = \frac{2}{3} \pi 21.692^3 - \frac{2}{3} \pi 21.216^3 = 1376.6\ \textrm{cm}^3$
 ** Abusables
    - Bottomless Pouch
    - Flaming Missiles
