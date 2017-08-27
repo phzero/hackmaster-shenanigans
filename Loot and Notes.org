@@ -1,19 +1,25 @@
 * Loot
-[[file:images/quality-item-resale.png]]
+  [[file:images/quality-item-resale.png]]
 ** Weapons and Armor appraisal
- - 2x Shortsword (10 sp ea.)
- - 2x Saber (18 sp ea.)
- - +3 Excellent Saber  (*?*)
- - Cooking Knife (*?*)
- - 2x Light Crossbow (35 sp ea.)
- - 2x Knife (5 cp ea.)
- - 2x Black Leather Armor (Basic Leather Armor: 6 sp)
- - Finely woven, very tolerable to damage battle clothing from Banded Krait (*?*)
- - 9 small shields (15 sp ea.)
- - Black Hood with decorative rim with fine details that would be used by a high
-   ranking individual with a single shoulder pad on one side (*?*)
+   - 2x Shortsword (10 sp ea.)
+   - 2x Saber (18 sp ea.)
+   - +3 Excellent Saber  (*?*)
+   - Cooking Knife (*?*)
+   - 2x Light Crossbow (35 sp ea.)
+   - 2x Knife (5 cp ea.)
+   - 2x Black Leather Armor (Basic Leather Armor: 6 sp)
+   - Finely woven, very tolerable to damage battle-clothing from Banded Krait (*?*)
+   - 9 small shields (15 sp ea.)
+   - Black Hood with decorative rim with fine details that would be used by a high
+     ranking individual with a single shoulder pad on one side (*?*)
+   - House of Shackles Grand Oppressor clothes of unknown value. Believed to fetch
+     a high price if an enthusiast Slen scholar were to be found (*?*)
+   - 7 Scourges
+     - Six +2
+     - One +3
 ** Misc.
    - 15 toy trains (8 sp each for fixed, 3 broken are worthless)
+   - 5 golden rings from Slen (13-16 gp each)
 * Plot and Character Notes
   - *Hall of Oaths* will fuck me over wherever they can find me, thanks to the whole mixup in Hell.
     - All of Torakk is now our enemy
@@ -25,43 +31,43 @@
 **** Currently in Party
      - *Sind Kraid* 
 
-        /Seek a man with a silver shawl to redeem Sind/
+       /Seek a man with a silver shawl to redeem Sind/
      - Iza, the Giant Bumblebee
        [[file:images/bumblebee.png]]
      - Aflastor the Giant Eagle
      - *The Blue Eagle*
 
-        /Needs our help to save its family/
+       /Needs our help to save its family/
      - *Lyra Rosetagg*
 
-        /The original quest, take Lyra to Bynarr/
+       /The original quest, take Lyra to Bynarr/
      - Rob Kylberg
      - Landry
      - Ganarra Estree
      - Pixie-Fairy chicks
        - Ano-Da, the stubborn one
 
-        [[file:Plot%20and%20Character%20Notes/med_2017-08-17_20-28-24.png]]
+         [[file:Plot%20and%20Character%20Notes/med_2017-08-17_20-28-24.png]]
        - Sho-Wa, the shy one
 
-        [[file:Plot%20and%20Character%20Notes/med_2017-08-17_20-27-17.png]] 
+         [[file:Plot%20and%20Character%20Notes/med_2017-08-17_20-27-17.png]] 
      - Grodd the Bunny
        
-        Bunny people are known for their ingenuity and advanced tech. Might wanna
+       Bunny people are known for their ingenuity and advanced tech. Might wanna
        ask her about that.
      - *Glub Glub*
 
-        Has magical armor that will grow in the presence of a Pixie-Fairy Mother
+       Has magical armor that will grow in the presence of a Pixie-Fairy Mother
        Tree.
 **** Other location
      - *Landeir*
 
-        /Is in a place where there are only gnomes./
+       /Is in a place where there are only gnomes./
 
-        Is near the Swamp, Mabon knows where
+       Is near the Swamp, Mabon knows where
      - Above K9
 
-        Last seen headed to Narrajy forest. Qualifies for Mage/Thief Master for
+       Last seen headed to Narrajy forest. Qualifies for Mage/Thief Master for
        Io-Nis, maybe.
      - Black Mamba
      - Ur-Quan
@@ -80,18 +86,18 @@
       8) Master
       9) Master
 **** Slen
-   Sharddy Hills had undead, flesh and bones, wearing the worst armor, the worst
-   weapons, lots of those niggas. Came in fucktons of waves, or so the ghosts said.
+     Sharddy Hills had undead, flesh and bones, wearing the worst armor, the worst
+     weapons, lots of those niggas. Came in fucktons of waves, or so the ghosts said.
 **** Tharggy
      - Birds have been shot on sight near Tharggy for some reason.
      - An unnamed, probably dead blacksmith in Tharggy, disappeared after her
        town was raided by lizardmen.
        - She has been revealed to be alive, and in a forest north of Tharggy
 **** Kannej Swamp
-    - Sir Edward the Third
+     - Sir Edward the Third
 
-        A knight who rewarded us for freeing the dumbos from the other party. Is married to a total hag.
-    - Sir Asterix
+       A knight who rewarded us for freeing the dumbos from the other party. Is married to a total hag.
+     - Sir Asterix
 **** Thybaj
 ***** Shyta
       - Truffle the Blacksmith
@@ -101,27 +107,33 @@
        The five explosive dames
 **** Lands of Torakk
 ***** Jorakk Mountains
-    - Mormon Pixie-Fairies' Mother Tree
-    - Sleeping Dragon
+      - Mormon Pixie-Fairies' Mother Tree
+      - Sleeping Dragon
 *** Misc.
-     - Kerry King the Vampire
+    - Kerry King the Vampire
 
-        Has marked Wilhace. I'll tell Wilhace to keep his teeth clean. His mansion
-       will appear on the corner of Upper Byth River and Slen.
-     - Harken the Archmage
-     - Shea the trader
+      Has marked Wilhace. I'll tell Wilhace to keep his teeth clean. His mansion
+      will appear on the corner of Upper Byth River and Slen.
+    - Harken the Archmage
+    - Shea the trader
 
-        Red-haired elf trader who rode on a big turtle, to whom we gave a
-       priceless chest of water that could've been turned into wine, because
-       Meteor never realized we had previously turned it into wine.
-     - Leaders of the Frost Giants: Orichalcum, Zodiac and Damascus
+      Red-haired elf trader who rode on a big turtle, to whom we gave a
+      priceless chest of water that could've been turned into wine, because
+      Meteor never realized we had previously turned it into wine.
+    - Leaders of the Frost Giants: Orichalcum, Zodiac and Damascus
 
-        Are indisputably evil
-     - Devils — like evil 
-     - Cyclopes
+      Are indisputably evil
+    - Devils — like evil 
+    - Cyclopes
 **** Groups
 *** Larger Organizations
 **** Church of Night's Beauty
+     - Relius Kendran, Patriach of Pelselond, leader of Slen.
+       - Hunted by the Oppressors, the remnants of the House of Shackles.
+       - Possesses the blessing of the Powermaster somehow. Able to knock people
+         on their ass bare-handed.
+       - Incapable of clerical casting.
+       - Owes us a favor for saving his waifu.
 **** Courts of Justice
 * Objectives
 ** Calamities
@@ -266,48 +278,59 @@
      There is no doubt that killing the dragon will provide an incredibly
      lucrative opportunity to make use of its corpse.
 ***** Body Part List
-     - Hide
-     - Claws
-     - Pumpkins
-     - Eyes
-     - Organs
-       - Heart
-       - Liver
-       - Kidneys
-       - Lungs
-       - Eyes
-     - Fire gland
-     - Blood
-       - Dipping jewelry for great justice
-     - Tongue
-     - Veins
-     - Meat
-     - Bones
-     - Tendons
-     - Vocal cords
-     - Wings
-     - Saliva (spell component for fire spells, deals +1d10p)
-     - Horns
-     - Tailspikes
-     - Catgut from intestines
+      - Hide
+      - Claws
+      - Pumpkins
+        - 3 Small
+        - 2 Big
+      - Eyes
+      - Organs
+        - Heart
+        - Liver
+        - Kidneys
+        - Lungs
+        - Eyes
+      - Fire gland
+      - Blood
+        - Dipping jewelry for great justice
+      - Tongue
+      - Tail
+        - Spikes
+        - Taillights
+      - Veins
+      - Meat
+      - Bones
+        - Skull
+        - Limbs
+        - Spine
+        - Wing-bones
+        - Tail-bones
+      - Tendons
+      - Vocal cords
+      - Wings
+        - Spikes
+      - Saliva (spell component for fire spells, deals +1d10p, maybe.)
+      - Horns
+      - Catgut from intestines
+      - Teeth/Fangs
 *** Calvarium
-   - *Calvarium* can be killed, says Fritz, if he is brought into the real world.
-   - The followers of Diadolai of the Red Moon of the Church of Night's Beauty
-     could potentially reconstruct the prison of Calvarium
-   - If we manage to get the Xulith back alive from the fight with the Dragon,
-     the Relius Kendran, the Patriarch of Pelselond, has promised to lend his
-     aid in dealing with Calvarium.
+    - *Calvarium* can be killed, says Fritz, if he is brought into the real world.
+    - The followers of Diadolai of the Red Moon of the Church of Night's Beauty
+      could potentially reconstruct the prison of Calvarium
+    - If we manage to get the Xulith back alive from the fight with the Dragon,
+      then Relius Kendran, the Patriarch of Pelselond, has promised to lend his
+      aid in dealing with Calvarium.
 *** Xulith
     The further back you are of the snake, the more it's capable of taking damage.
 **** Powers
      Immune to magic
 ** TODO Reforge the Trollslapper and the Oathkeeper(?)
-     - Blacksmiths capable of doing this are
-       1. Salut the Dwarf (Torakk)
-       2. Truffle (Shyta, Thybaj)
-       3. An unnamed, probably dead blacksmith in Tharggy, disappeared after her
-          town was raided by lizardmen.
-          - She has been revealed to be alive, and in the Ryakk Woods north of Tharggy
+   - Blacksmiths capable of doing this are
+     1. Salut the Dwarf (Torakk)
+     2. Truffle (Shyta, Thybaj)
+     3. An unnamed, probably dead blacksmith in Tharggy, disappeared after her
+        town was raided by lizardmen.
+        - She has been revealed to be alive, and in the Ryakk Woods north of Tharggy
      Ideally, the Oathkeeper should be reforged to at least a Petite Lance and a
      Petite Rapier made for defense. Possible modifications could be using the
      Divine Bark for the hilt, the dragon's hide for the hilt's wrappings, maybe
@@ -339,7 +362,7 @@
       Teleport around everywhere has unknown activation word
    8) God-sword shard
 
-        About 40-50 cm in length, 15 cm in width on average. Assuming half-inch thickness (1.27 cm), it's about 8 kg.
+      About 40-50 cm in length, 15 cm in width on average. Assuming half-inch thickness (1.27 cm), it's about 8 kg.
    9) Divine Bark
    10) Communication Stones
        - To the three Frost Giant clans
@@ -347,7 +370,13 @@
        - To the Satyrs
    11) Blessed Yeti-skin Coat
 
-        Blessed by Harald "Strong" Bardsson. Pixie-Fairy-sized.
+       Blessed by Harald "Strong" Bardsson. Pixie-Fairy-sized.
+   12) Magical Anti-Dragon Necklace.
+       It's said to provide great protection against dragons, but it would take
+       careful analysis to try and pin down exactly what it is. The necklace was
+       bathed in the blood of a dragon that was slain by a great hero of past, and is
+       said to be recognized as such a threat to dragons that it might even instill
+       fear just by seeing it
 ** Tools and Misc.
    - Pavillion
    - Portable Alchemist's Lab
@@ -358,7 +387,7 @@
    - Beekeeper's Clothes
    - Spellbooks
      - Fantastic Four spell list
-      [[file:spellbook-spells.pdf]]
+       [[file:spellbook-spells.pdf]]
      - Fritz
    - Maps
      - Good Star Chart
@@ -413,65 +442,121 @@
      - Make cannons using the explosive force of the script
    - Fracture Object has no saving throw
 ** [[file:~/Documents/RPG%20shit/Hackmaster%20docs/Hackmaster/foodstuffs.org][Foodstuff]] Table
-	| Weekly costs     |           |          |
-	|------------------+-----------+----------|
-	| Preserved fruit  | 3 cp 5 tc | 7 lbs    |
-	| Sailor's Sausage | 20 cp     | 15 lbs   |
-	| Salted Fish      | 3 cp      | 21 lbs   |
-	| Trail Rations    | 50 cp     | 25 lbs   |
-	| Corn Dodgers     | 25 cp     | 37.5 lbs |
-	| Standard Rations | 5 cp      | 50 lbs   |
+	 | Weekly costs     |           |          |
+	 |------------------+-----------+----------|
+	 | Preserved fruit  | 3 cp 5 tc | 7 lbs    |
+	 | Sailor's Sausage | 20 cp     | 15 lbs   |
+	 | Salted Fish      | 3 cp      | 21 lbs   |
+	 | Trail Rations    | 50 cp     | 25 lbs   |
+	 | Corn Dodgers     | 25 cp     | 37.5 lbs |
+	 | Standard Rations | 5 cp      | 50 lbs   |
 
-| Foodstuff              | Unit Price | Unit Weight | Unit Duration | Unit Calories | Weekly Cost | Weekly Weight |
-|------------------------+------------+-------------+---------------+---------------+-------------+---------------|
-| /                      |            |             |               |               | <           | >             |
-| Butter                 | 2 cp       | 1 lb        | 0.233 wks     | 3.3k kcal     | 9 cp        | 4.48 lbs      |
-| Nuts                   | 10 cp      | 1 lb        | 0.195 wks     | 2.7k kcal     | 51.3 cp     | 5.13 lbs      |
-| Coarse Sugar           | 50 cp      | 1 lb        | 0.12 wks      | 1.7k kcal     | 416 cp      | 8.3 lbs       |
-| Rice                   | 2 cp       | 1 lb        | 0.12 wks      | 1.7k kcal     | 16.7 cp     | 8.33 lbs      |
-| Raisins                | 2 cp       | 1 lb        | 0.097 wks     | 1.4k kcal     | 20.6 cp     | 11 lbs        |
-| Eggs (2 dz)            | 2 cp       | 3 lbs       | 0.127 wks     | 1.8k kcal     | 15.75 cp    | 24 lbs        |
-| Barrel of Pickled Fish | 30 cp      | 500 lbs     | 19.8 wks      | 278k kcal     | 1.5 cp      | 25 lbs        |
-| Eggs (100)             | 8 cp       | 15 lbs      | 0.53 wks      | 7.4k kcal     | 15 cp       | 28 lbs        |
-| Figs                   | 3 cp       | 1 lb        | 0.024 wks     | 0.34 kcal     | 125 cp      | 41.7 lbs      |
-** Estyr's Spells
-| Number | First Level                                    | Second Level                                     | Third Level                                          | Fourth Level                                   |
-|--------+------------------------------------------------+--------------------------------------------------+------------------------------------------------------+------------------------------------------------|
-|      1 | Celestial Prognosis (/tells HP/)               | Alleviate Trauma (/cures ToP/)                   | Alter Emotion: Frighten (/Off. Fear/)                | Alert (/set ally init to cast/)                |
-|      2 | Ceremony: Consecrate Divine Icon               | Bless (/buff/)                                   | Bless Weapon                                         | Command (/Give one order (e.g. die) to enemy/) |
-|      3 | Extend Fuel                                    | Ceremony: Anoint                                 | Breeze (/mild breeze/)                               | Cure Minor Wound                               |
-|      4 | Induce Sobriety                                | Cure Trifling Wound                              | Curse, Petty (/Dbuff/)                               | Divine Providence (/buff: 4 luck points/)      |
-|      5 | Influence, Minor (/emotion increase/decrease/) | Detect Poison                                    | Detect Influence                                     | Divine Steward (/extremely weak servant/)      |
-|      6 | Know North                                     | Know Position                                    | Endure Cold (/-30°F, 6 DR once/)                     | Enchanted Vestments (Unum) (/armor self-buff/) |
-|      7 | Moderate Emotion: Reduce Fear                  | Moderate Elemental Damage (/Def. vs. elemental/) | Endure Heat (/135°F, 6 DR once/)                     | Faith Shield (Duae) (/same as small shield/)   |
-|      8 | Purify Water                                   | Moderate Emotion: Cause Fear                     | Fortify (/Enchant 2d3 food, 1 HP each, max 3/)       | Identify Poison                                |
-|      9 | Sense Divine Magic                             | Perspicillum (M2)                                | Illumination: Torch                                  | Inflict Small Wound (/d8p+1 on touch/)         |
-|     10 | Sense Presence of Evil                         | Purify Food                                      | Imperceptibility to Undead (/if Undead Will<Level/)  | Influence (/Give emotion to uncaring target/)  |
-|     11 | Sense Presence of Good                         | Rejuvenate (/removes fatigue/)                   | Improve Vigilance (/one better init die/)            | Kismet (/Mulligan buff/)                       |
-|     12 | Translate (M1)                                 | Reveal Pits & Snares                             | Sterilize (/e.g. First Aid success on Wounds=level/) | Speed of the Devout (/-1 Speed for 1 attack/)  |
+   | Foodstuff              | Unit Price | Unit Weight | Unit Duration | Unit Calories | Weekly Cost | Weekly Weight |
+   |------------------------+------------+-------------+---------------+---------------+-------------+---------------|
+   | /                      |            |             |               |               | <           | >             |
+   | Butter                 | 2 cp       | 1 lb        | 0.233 wks     | 3.3k kcal     | 9 cp        | 4.48 lbs      |
+   | Nuts                   | 10 cp      | 1 lb        | 0.195 wks     | 2.7k kcal     | 51.3 cp     | 5.13 lbs      |
+   | Coarse Sugar           | 50 cp      | 1 lb        | 0.12 wks      | 1.7k kcal     | 416 cp      | 8.3 lbs       |
+   | Rice                   | 2 cp       | 1 lb        | 0.12 wks      | 1.7k kcal     | 16.7 cp     | 8.33 lbs      |
+   | Raisins                | 2 cp       | 1 lb        | 0.097 wks     | 1.4k kcal     | 20.6 cp     | 11 lbs        |
+   | Eggs (2 dz)            | 2 cp       | 3 lbs       | 0.127 wks     | 1.8k kcal     | 15.75 cp    | 24 lbs        |
+   | Barrel of Pickled Fish | 30 cp      | 500 lbs     | 19.8 wks      | 278k kcal     | 1.5 cp      | 25 lbs        |
+   | Eggs (100)             | 8 cp       | 15 lbs      | 0.53 wks      | 7.4k kcal     | 15 cp       | 28 lbs        |
+   | Figs                   | 3 cp       | 1 lb        | 0.024 wks     | 0.34 kcal     | 125 cp      | 41.7 lbs      |
+** Spells available
+*** Estyr's Spells
+    | Number | First Level                                    | Second Level                                     | Third Level                                          | Fourth Level                                   |
+    |--------+------------------------------------------------+--------------------------------------------------+------------------------------------------------------+------------------------------------------------|
+    |      1 | Celestial Prognosis (/tells HP/)               | Alleviate Trauma (/cures ToP/)                   | Alter Emotion: Frighten (/Off. Fear/)                | Alert (/set ally init to cast/)                |
+    |      2 | Ceremony: Consecrate Divine Icon               | Bless (/buff/)                                   | Bless Weapon                                         | Command (/Give one order (e.g. die) to enemy/) |
+    |      3 | Extend Fuel                                    | Ceremony: Anoint                                 | Breeze (/mild breeze/)                               | Cure Minor Wound (/d6p; d6p+1/)           |
+    |      4 | Induce Sobriety                                | Cure Trifling Wound (/d3p;d4p/)                  | Curse, Petty (/Dbuff/)                               | Divine Providence (/buff: 4 luck points/)      |
+    |      5 | Influence, Minor (/emotion increase/decrease/) | Detect Poison                                    | Detect Influence                                     | Divine Steward (/extremely weak servant/)      |
+    |      6 | Know North                                     | Know Position                                    | Endure Cold (/-30°F, 6 DR once/)                     | Enchanted Vestments (Unum) (/armor self-buff/) |
+    |      7 | Moderate Emotion: Reduce Fear                  | Moderate Elemental Damage (/Def. vs. elemental/) | Endure Heat (/135°F, 6 DR once/)                     | Faith Shield (Duae) (/same as small shield/)   |
+    |      8 | Purify Water                                   | Moderate Emotion: Cause Fear                     | Fortify (/Enchant 2d3 food, 1 HP each, max 3/)       | Identify Poison                                |
+    |      9 | Sense Divine Magic                             | Perspicillum (M2)                                | Illumination: Torch                                  | Inflict Small Wound (/d8p+1 on touch/)         |
+    |     10 | Sense Presence of Evil                         | Purify Food                                      | Imperceptibility to Undead (/if Undead Will<Level/)  | Influence (/Give emotion to uncaring target/)  |
+    |     11 | Sense Presence of Good                         | Rejuvenate (/removes fatigue/)                   | Improve Vigilance (/one better init die/)            | Kismet (/Mulligan buff/)                       |
+    |     12 | Translate (M1)                                 | Reveal Pits & Snares                             | Sterilize (/e.g. First Aid success on Wounds=level/) | Speed of the Devout (/-1 Speed for 1 attack/)  |
 
-| Number | Fifth Level                                | Sixth Level                                        | Seventh Level                                 | Eighth Level                                   |
-|--------+--------------------------------------------+----------------------------------------------------+-----------------------------------------------+------------------------------------------------|
-|      1 | Blessing                                   | Faith Shield (Trium) (/medium shield/)             | Call to Action (/set init to cast/)           | Enchanted Vestments (Duae) (/armor/)           |
-|      2 | Ceremony: Investiture (/Priesthood/)       | Hold in Place (/stuck to ground, -2 combat rolls/) | Catalepsy (/make willing target seem dead/)   | Faith Shield (Quattuor) (/body shield/)        |
-|      3 | Consecrate Armor (/improve armor/)         | Holy Blessing (/+2 atk&def, +10% skill/)           | Cure Lesser Wound (/2d4p+2/)                  | Find Item                                      |
-|      4 | Create Water                               | Illumination: Lantern                              | Divine Grace (/target cannot fumble/)         | God's Guidance (/ally roll twice skill check/) |
-|      5 | Cure Small Wound (/d6p+1/)                 | Invigorate (/remove fatigue from 6 people/)        | Mind Reading (M6)                             | Inflict Moderate Wound (/3d4p+2/)              |
-|      6 | +Divine Providence+ Telepathic Mute        | Laryngitis (/mutes victim for ½ hour/)             | Heighten Vigilance (/+1 init die, 2 allies /) | Polylingualism (M8)                            |
-|      7 | Indifference (/make creature neutral/)     | Part Stream (/width;depth 10;30/)                  | Hush (/zone of low volume/)                   | Rigor Mortis (/target cannot physical action/) |
-|      8 | Induce Migraine (/-2 dbuff all rolls/)     | Sense Invisible Beings (M5)                        | Induce Drunkenness (Wasted)                   | Strong Breeze                                  |
-|      9 | Rectify Strain (/removes the crit injury/) | Total Control (/immunity to fear/)                 | Indulgence, Minor (/restores lost honor/)     | Treat Disease                                  |
-|     10 | [[Stirring Effects][Stirring Speech]]                            | True Strike (/roll thrice for next atk, pick one/) | Seraphic Weapon (/remote control weapon/)     | Treat Poison                                   |
+    | Number | Fifth Level                                | Sixth Level                                        | Seventh Level                                 | Eighth Level                                   |
+    |--------+--------------------------------------------+----------------------------------------------------+-----------------------------------------------+------------------------------------------------|
+    |      1 | Blessing                                   | Faith Shield (Trium) (/medium shield/)             | Call to Action (/set init to cast/)           | Enchanted Vestments (Duae) (/armor/)           |
+    |      2 | Ceremony: Investiture (/Priesthood/)       | Hold in Place (/stuck to ground, -2 combat rolls/) | Catalepsy (/make willing target seem dead/)   | Faith Shield (Quattuor) (/body shield/)        |
+    |      3 | Consecrate Armor (/improve armor/)         | Holy Blessing (/+2 atk&def, +10% skill/)           | Cure Lesser Wound (/2d4p+2;2d6p+1/)           | Find Item                                      |
+    |      4 | Create Water                               | Illumination: Lantern                              | Divine Grace (/target cannot fumble/)         | God's Guidance (/ally roll twice skill check/) |
+    |      5 | Cure Small Wound (/d6p+1;d8p+1/)           | Invigorate (/remove fatigue from 6 people/)        | Mind Reading (M6)                             | Inflict Moderate Wound (/3d4p+2/)              |
+    |      6 | +Divine Providence+ Telepathic Mute        | Laryngitis (/mutes victim for ½ hour/)             | Heighten Vigilance (/+1 init die, 2 allies /) | Polylingualism (M8)                            |
+    |      7 | Indifference (/make creature neutral/)     | Part Stream (/width;depth 10;30/)                  | Hush (/zone of low volume/)                   | Rigor Mortis (/target cannot physical action/) |
+    |      8 | Induce Migraine (/-2 dbuff all rolls/)     | Sense Invisible Beings (M5)                        | Induce Drunkenness (Wasted)                   | Strong Breeze                                  |
+    |      9 | Rectify Strain (/removes the crit injury/) | Total Control (/immunity to fear/)                 | Indulgence, Minor (/restores lost honor/)     | Treat Disease                                  |
+    |     10 | [[Stirring Effects][Stirring Speech]]                            | True Strike (/roll thrice for next atk, pick one/) | Seraphic Weapon (/remote control weapon/)     | Treat Poison                                   |
 
-| Number | Ninth Level                                     | Tenth Level                                         | Eleventh Level                                           | Twelfth Level                            |
-|--------+-------------------------------------------------+-----------------------------------------------------+----------------------------------------------------------+------------------------------------------|
-|      1 | Alleviate Fatigue (/removes fatigue penalties/) | Age (/ages 2d12p months/)                           | Cure Intermediate Wound (/3d4p+3/)                       | Enchanted Vestments (Trium)              |
-|      2 | Decay (/decays nonliving objects/)              | Analgesic (/buff: -4 to ToP/)                       | Emotion Shielding (/def. vs. mind reading, mental etc./) | Inflict Large Wound (/4d4p+4/)           |
-|      3 | Extinguish (/only for non-magical/)             | Create Campsite (/food, etc. set up/)               | Fiery Furnace (/DR15 vs. fire/)                          | Repair Torn Tendon/Ligament              |
-|      4 | Heavenly Luck (/Mulligan/)                      | Cure Medium Wound (/3d4p+2/)                        | Clairoptikos (M9)                                        | Resist Acid or Caustic (/12 DR/)         |
-|      5 | Clairaudience (M8)                              | Dismiss Enchantment (/end other spell/)             | Mass Influence (/emotion induction/)                     | Samar's Beacon (M11) (/track metal/)     |
-|      6 | Mend Muscle Tear (/fixes that crit injury/)     | Faith Weaponry (/+3 dmg; 5 weapons; 5 succ. atks/)  | Miracle Meal (/7 lbs. food per level/)                   | Speak to the Dead                        |
-|      7 | Remedy Supernatural Deafness                    | Helping Hand (/hand finds and guides person to us/) | Remedy Supernatural Blindness                            | [[Stirring Effects][Stirring Sermon]]                          |
-|      8 | [[Stirring Effects][Stirring Oration]]                                | Speed of the Divine (/-3 speed; 5 attacks)          | Walk on Water (/affects self + 1 per 2 levels above 11/) | Warding Sigil (/magical permanent trap/) |
+    | Number | Ninth Level                                     | Tenth Level                                         | Eleventh Level                                           | Twelfth Level                            |
+    |--------+-------------------------------------------------+-----------------------------------------------------+----------------------------------------------------------+------------------------------------------|
+    |      1 | Alleviate Fatigue (/removes fatigue penalties/) | Age (/ages 2d12p months/)                           | Cure Intermediate Wound (/3d4p+3;2d8p+4/)                | Enchanted Vestments (Trium)              |
+    |      2 | Decay (/decays nonliving objects/)              | Analgesic (/buff: -4 to ToP/)                       | Emotion Shielding (/def. vs. mind reading, mental etc./) | Inflict Large Wound (/4d4p+4/)           |
+    |      3 | Extinguish (/only for non-magical/)             | Create Campsite (/food, etc. set up/)               | Fiery Furnace (/DR15 vs. fire/)                          | Repair Torn Tendon/Ligament              |
+    |      4 | Heavenly Luck (/Mulligan/)                      | Cure Medium Wound (/3d4p+2;2d8p+3/)                 | Clairoptikos (M9)                                        | Resist Acid or Caustic (/12 DR/)         |
+    |      5 | Clairaudience (M8)                              | Dismiss Enchantment (/end other spell/)             | Mass Influence (/emotion induction/)                     | Samar's Beacon (M11) (/track metal/)     |
+    |      6 | Mend Muscle Tear (/fixes that crit injury/)     | Faith Weaponry (/+3 dmg; 5 weapons; 5 succ. atks/)  | Miracle Meal (/7 lbs. food per level/)                   | Speak to the Dead                        |
+    |      7 | Remedy Supernatural Deafness                    | Helping Hand (/hand finds and guides person to us/) | Remedy Supernatural Blindness                            | [[Stirring Effects][Stirring Sermon]]                          |
+    |      8 | [[Stirring Effects][Stirring Oration]]                                | Speed of the Divine (/-3 speed; 5 attacks/)         | Walk on Water (/affects self + 1 per 2 levels above 11/) | Warding Sigil (/magical permanent trap/) |
+*** Carrot's Spells
+    | Number | First Level                                                 | Second Level                                           | Third Level                                         | Fourth Level                                                       |
+    |--------+-------------------------------------------------------------+--------------------------------------------------------+-----------------------------------------------------+--------------------------------------------------------------------|
+    |      1 | Addle, Partial (/-2 mental save/)                           | Aggravate Pain (/increase ToP by 60 sec/)              | Bash Door^(M 1)                                      | Addle (/-4 mental, -1 def, +1 init/)                               |
+    |      2 | Alleviate Trauma (/remove ToP/)                             | Alter Emotion: Frighten (/enemy panic/)                | Cure Trivial Wound (/d4p;d6p/)                      | Alert (/target's init becomes now/)                                |
+    |      3 | Ceremony: Consecrate Divine Icon                            | Bless (/1 person/)                                     | Endure Cold                                         | Anarchy (/if targets fail morale, do not obey superiors/)          |
+    |      4 | Enrage^(M j)(/Aggro enemy, 1 sec cast/)                      | Ceremony: Anoint                                       | Fire Breathing 1 (/d3p+6/)                          | Directed Strike (/roll twice for atk/)                             |
+    |      5 | Extend Fuel                                                 | Curse, Petty (/-1 atk;def;saving/)                     | Illumination: Torch                                 | Enchanted Vestments (Prima)                                        |
+    |      6 | Feat of Drunken Strength (/+6;+10 bonus to Feat, if drunk/) | Detect Poison                                          | Inflict Minor Wound (/d6p+1/)                       | Flaming Weapon (/+d4p dmg/)                                        |
+    |      7 | Ferment (/turn fruit into booze, max 1.35 l/)               | Doeskin (/+1 DR/)                                      | Ingénue (/+3 encounter reactions/)                  | Identify Poison                                                    |
+    |      8 | Hair of the Dog (/cure hangover/)                           | Lower Tolerance (/alcohol counts for double/)          | Know Position                                       | Inflict Pain (/immediate ToP vs. full CON, no save/)               |
+    |      9 | Induce Drunkenness: Buzzed                                  | Melancholia (/2 weeks, 20% chance cannot act per day/) | Re-energize                                         | Influence (/Give emotion to uncaring target/)                      |
+    |     10 | Know North                                                  | Rejuvenate                                             | Strength of the Boar^2(/+1 dmg, +2 Feat of Str/)     | Manifest Animal Totem: Hyena (/summon Hyena, lose honor if slain/) |
+    |     11 | Purify Water                                                | Sanctify Weapon (/+1 def vs 1 (2) atks/)               | Water to Wine                                       | Rectify Sprain/Hyperextension (/cure crit of same name/)           |
+    |     12 | Sense Divine Magic                                          | Unyielding (/+1 knockback size/)                       | Weaponize^2 (/turn item to weapon, silver if pref./) | Vialis^2 (/cure whiskey dick or asexuality/)                     |
+
+    | Number | Fifth Level                                                                                 | Sixth Level                                      | Seventh Level              | Eighth Level                                   |
+    |--------+---------------------------------------------------------------------------------------------+--------------------------------------------------+----------------------------+------------------------------------------------|
+    |      1 | Ceremony: Investiture (/ordain a novice priest/)                                            | Battle Rage                                      | Call to Action             | Addle, Thorough (/-6 mental, -2 def, +3 init/) |
+    |      2 | Cure Small Wound (/d6p+1;d8p+1/)                                                            | Faith Shield 3                                   | Curse, Vicious^2            | Alleviate Fatigue                              |
+    |      3 | Divine Providence (/buff: 4 luck points/)                                                   | Faith Weapons                                    | Divine Grace               | Bless Crops2                                   |
+    |      4 | Exalt Warrior (/+2d8p hp/)                                                                  | Fire Breath 2                                    | Give 110%^2                 | Bless Weaponry                                 |
+    |      5 | Extreme! (/+1 atk, dmg, off. saving throws, -1 speed (min. 1)                               | Illumination: Lantern                            | God’s Guidance             | Cure Middling Wound (/2d6p+1;2d6p+2/)          |
+    |      6 | Hallowed Weapon (/+1 atk, dmg, silver wep. Only pref./)                                     | Inflict Lesser Wound                             | Honey for Nothing          | Enchanted Vestments (Secunda)                  |
+    |      7 | Induce Drunkenness: Sloshed  | Righteous Cursing                                | Idiosyncrasy^2              | Heat Seeking Fist of Thunder^{M 5}                |
+    |      8 | Induce Migraine                                                                             | Rectify Strain                                   | Induce Drunkenness: Wasted | Incite Drunken Mob                             |
+    |      9 | Potent Potable                                                                              | Strength of the Stag^2(/+2 dmg, +4 Feat of Str./) | Indulgence, Lesser         | Power Attacks^2                                 |
+    |     10 | [[Stirring Effects][Stirring Speech]]                                                                             | True Strike                                      | Speed of the Righteous     | Really Hungover                                |
+
+    | Number | Ninth Level                  | Tenth Level                                 | Eleventh Level                | Twelfth Level                |
+    |--------+------------------------------+---------------------------------------------+-------------------------------+------------------------------|
+    |      1 | Cursing, Wretched^2           | Age (/ages 2d12p months/)                   | Addle, Comprehensive (/-8 mental, -3 def, +5 init/) | Debilitating Laughter        |
+    |      2 | Decay                        | Analgesic                                   | Blessed Warmth                | Fire Breath 4                |
+    |      3 | Dwarven Forbearance^2         | Cure Medium Wound (/3d4p+2;2d8+3/)          | Gale Force Wind               | Enchanted Vestments (Tertia) |
+    |      4 | Fire Breath 3                | Dismiss Enchantment (/end other spell/)     | Inflict Severe Pain           | Find the Way^2                |
+    |      5 | Heavenly Luck                | EXTREME!!                                   | Miracle Meal                  | Freedom of Motion            |
+    |      6 | Induce Fratricide^{M 7}         | Find Item                                   | Molotov                       | Really Hungover, Entourage   |
+    |      7 | Remedy Supernatural Deafness | Speed of the Divine (/-3 speed; 5 attacks/) | Remedy Supernatural Blindness | Rust^2                        |
+    |      8 | Transmute Gold to Lead^2      | Take Up Arms^2                               | Walk on Water                 | [[Stirring Effects][Stirring Sermon]]              |
+
 *** Stirring Effects
     [[file:images/stirring-stuff.png]]
+
+*** Buff-list:
+** Other
+*** Drunkenness
+**** Alcohol thresholds
+     - +1 drink per +1 vs. poison
+     - +Physical Saving Throw Mod
+     - Remove 1 drink per hour
+     #+DOWNLOADED: file:///home/ajs/Documents/RPG%20shit/Hackmaster%20docs/Hackmaster/MeteorD's%20campaign%20-%20The%20Winter%20Kingdom/images/weight-drinks.png @ 2017-08-27 14:34:57
+     [[file:Rules/weight-drinks_2017-08-27_14-34-57.png]]
+**** Alcohol effects
+     #+DOWNLOADED: file:///home/ajs/Documents/RPG%20shit/Hackmaster%20docs/Hackmaster/MeteorD's%20campaign%20-%20The%20Winter%20Kingdom/images/alcohol-effects.jpg @ 2017-08-27 14:34:52
+     [[file:Rules/alcohol-effects_2017-08-27_14-34-52.jpg]]
+     #+DOWNLOADED: file:///home/ajs/Documents/RPG%20shit/Hackmaster%20docs/Hackmaster/MeteorD's%20campaign%20-%20The%20Winter%20Kingdom/images/hangovers.png @ 2017-08-27 14:34:55
+     [[file:Rules/hangovers_2017-08-27_14-34-55.png]]
