@@ -462,7 +462,8 @@
    | Eggs (2 dz)            | 2 cp       | 3 lbs       | 0.127 wks     | 1.8k kcal     | 15.75 cp    | 24 lbs        |
    | Barrel of Pickled Fish | 30 cp      | 500 lbs     | 19.8 wks      | 278k kcal     | 1.5 cp      | 25 lbs        |
    | Eggs (100)             | 8 cp       | 15 lbs      | 0.53 wks      | 7.4k kcal     | 15 cp       | 28 lbs        |
-   | Figs                   | 3 cp       | 1 lb        | 0.024 wks     | 0.34 kcal     | 125 cp      | 41.7 lbs      |
+   | Figs                   | 3 cp       | 1 lb        | 0.024 wks     | 0.34k kcal    | 125 cp      | 41.7 lbs      |
+   | Honeybrew              | N/A        | ~0.5 lbs    |               | 0.54k kcal    | N/A         |               |
 ** Spells available
 *** Estyr's Spells
     | Number | First Level                                    | Second Level                                     | Third Level                                          | Fourth Level                                   |
@@ -514,34 +515,34 @@
     |      6 | Feat of Drunken Strength (/+6;+10 bonus to Feat, if drunk/) | Detect Poison                                          | Inflict Minor Wound (/d6p+1/)                       | Flaming Weapon (/+d4p dmg/)                                        |
     |      7 | Ferment (/turn fruit into booze, max 1.35 l/)               | Doeskin (/+1 DR/)                                      | Ingénue (/+3 encounter reactions/)                  | Identify Poison                                                    |
     |      8 | Hair of the Dog (/cure hangover/)                           | Lower Tolerance (/alcohol counts for double/)          | Know Position                                       | Inflict Pain (/immediate ToP vs. full CON, no save/)               |
-    |      9 | Induce Drunkenness: Buzzed                                  | Melancholia (/2 weeks, 20% chance cannot act per day/) | Re-energize                                         | Influence (/Give emotion to uncaring target/)                      |
+    |      9 | Induce Drunkenness: [[Alcohol effects][Buzzed]]                                  | Melancholia (/2 weeks, 20% chance cannot act per day/) | Re-energize                                         | Influence (/Give emotion to uncaring target/)                      |
     |     10 | Know North                                                  | Rejuvenate                                             | Strength of the Boar^2(/+1 dmg, +2 Feat of Str/)     | Manifest Animal Totem: Hyena (/summon Hyena, lose honor if slain/) |
     |     11 | Purify Water                                                | Sanctify Weapon (/+1 def vs 1 (2) atks/)               | Water to Wine                                       | Rectify Sprain/Hyperextension (/cure crit of same name/)           |
-    |     12 | Sense Divine Magic                                          | Unyielding (/+1 knockback size/)                       | Weaponize^2 (/turn item to weapon, silver if pref./) | Vialis^2 (/cure whiskey dick or asexuality/)                     |
+    |     12 | Sense Divine Magic                                          | Unyielding (/+1 knockback size/)                       | Weaponize^2 (/turn item to weapon, silver if pref./) | Vialis^2 (/cure whiskey dick or asexuality/)                        |
 
-    | Number | Fifth Level                                                                                 | Sixth Level                                      | Seventh Level              | Eighth Level                                   |
-    |--------+---------------------------------------------------------------------------------------------+--------------------------------------------------+----------------------------+------------------------------------------------|
-    |      1 | Ceremony: Investiture (/ordain a novice priest/)                                            | Battle Rage                                      | Call to Action             | Addle, Thorough (/-6 mental, -2 def, +3 init/) |
-    |      2 | Cure Small Wound (/d6p+1;d8p+1/)                                                            | Faith Shield 3                                   | Curse, Vicious^2            | Alleviate Fatigue                              |
-    |      3 | Divine Providence (/buff: 4 luck points/)                                                   | Faith Weapons                                    | Divine Grace               | Bless Crops2                                   |
-    |      4 | Exalt Warrior (/+2d8p hp/)                                                                  | Fire Breath 2                                    | Give 110%^2                 | Bless Weaponry                                 |
-    |      5 | Extreme! (/+1 atk, dmg, off. saving throws, -1 speed (min. 1)                               | Illumination: Lantern                            | God’s Guidance             | Cure Middling Wound (/2d6p+1;2d6p+2/)          |
-    |      6 | Hallowed Weapon (/+1 atk, dmg, silver wep. Only pref./)                                     | Inflict Lesser Wound                             | Honey for Nothing          | Enchanted Vestments (Secunda)                  |
-    |      7 | Induce Drunkenness: Sloshed  | Righteous Cursing                                | Idiosyncrasy^2              | Heat Seeking Fist of Thunder^{M 5}                |
-    |      8 | Induce Migraine                                                                             | Rectify Strain                                   | Induce Drunkenness: Wasted | Incite Drunken Mob                             |
-    |      9 | Potent Potable                                                                              | Strength of the Stag^2(/+2 dmg, +4 Feat of Str./) | Indulgence, Lesser         | Power Attacks^2                                 |
-    |     10 | [[Stirring Effects][Stirring Speech]]                                                                             | True Strike                                      | Speed of the Righteous     | Really Hungover                                |
+    | Number | Fifth Level                                                   | Sixth Level                                      | Seventh Level              | Eighth Level                                   |
+    |--------+---------------------------------------------------------------+--------------------------------------------------+----------------------------+------------------------------------------------|
+    |      1 | Ceremony: Investiture (/ordain a novice priest/)              | Battle Rage                                      | Call to Action             | Addle, Thorough (/-6 mental, -2 def, +3 init/) |
+    |      2 | Cure Small Wound (/d6p+1;d8p+1/)                              | Faith Shield 3                                   | Curse, Vicious^2            | Alleviate Fatigue                              |
+    |      3 | Divine Providence (/buff: 4 luck points/)                     | Faith Weapons                                    | Divine Grace               | Bless Crops^2                                   |
+    |      4 | Exalt Warrior (/+2d8p hp/)                                    | Fire Breath 2                                    | Give 110%^2                 | Bless Weaponry                                 |
+    |      5 | Extreme! (/+1 atk, dmg, off. saving throws, -1 speed (min. 1) | Illumination: Lantern                            | God’s Guidance             | Cure Middling Wound (/2d6p+1;2d6p+2/)          |
+    |      6 | Hallowed Weapon (/+1 atk, dmg, silver wep. Only pref./)       | Inflict Lesser Wound                             | Honey for Nothing          | Enchanted Vestments (Secunda)                  |
+    |      7 | Induce Drunkenness: [[Alcohol effects][Sloshed]]                                   | Righteous Cursing                                | Idiosyncrasy^2              | Heat Seeking Fist of Thunder^{M 5}                |
+    |      8 | Induce Migraine (/-2 atk;def;saving, -10% skills/)            | Rectify Strain                                   | Induce Drunkenness: [[Alcohol effects][Wasted]] | Incite Drunken Mob                             |
+    |      9 | Potent Potable (/turn non-alcoholic beverage alcoholic/)      | Strength of the Stag^2(/+2 dmg, +4 Feat of Str./) | Indulgence, Lesser         | Power Attacks^2                                 |
+    |     10 | [[Stirring Effects][Stirring Speech]]                                               | True Strike                                      | Speed of the Righteous     | Really Hungover                                |
 
-    | Number | Ninth Level                  | Tenth Level                                 | Eleventh Level                | Twelfth Level                |
-    |--------+------------------------------+---------------------------------------------+-------------------------------+------------------------------|
+    | Number | Ninth Level                  | Tenth Level                                 | Eleventh Level                                      | Twelfth Level                |
+    |--------+------------------------------+---------------------------------------------+-----------------------------------------------------+------------------------------|
     |      1 | Cursing, Wretched^2           | Age (/ages 2d12p months/)                   | Addle, Comprehensive (/-8 mental, -3 def, +5 init/) | Debilitating Laughter        |
-    |      2 | Decay                        | Analgesic                                   | Blessed Warmth                | Fire Breath 4                |
-    |      3 | Dwarven Forbearance^2         | Cure Medium Wound (/3d4p+2;2d8+3/)          | Gale Force Wind               | Enchanted Vestments (Tertia) |
-    |      4 | Fire Breath 3                | Dismiss Enchantment (/end other spell/)     | Inflict Severe Pain           | Find the Way^2                |
-    |      5 | Heavenly Luck                | EXTREME!!                                   | Miracle Meal                  | Freedom of Motion            |
-    |      6 | Induce Fratricide^{M 7}         | Find Item                                   | Molotov                       | Really Hungover, Entourage   |
-    |      7 | Remedy Supernatural Deafness | Speed of the Divine (/-3 speed; 5 attacks/) | Remedy Supernatural Blindness | Rust^2                        |
-    |      8 | Transmute Gold to Lead^2      | Take Up Arms^2                               | Walk on Water                 | [[Stirring Effects][Stirring Sermon]]              |
+    |      2 | Decay                        | Analgesic                                   | Blessed Warmth                                      | Fire Breath 4                |
+    |      3 | Dwarven Forbearance^2         | Cure Medium Wound (/3d4p+2;2d8+3/)          | Gale Force Wind                                     | Enchanted Vestments (Tertia) |
+    |      4 | Fire Breath 3                | Dismiss Enchantment (/end other spell/)     | Inflict Severe Pain                                 | Find the Way^2                |
+    |      5 | Heavenly Luck                | EXTREME!!                                   | Miracle Meal                                        | Freedom of Motion            |
+    |      6 | Induce Fratricide^{M 7}         | Find Item                                   | Molotov                                             | Really Hungover, Entourage   |
+    |      7 | Remedy Supernatural Deafness | Speed of the Divine (/-3 speed; 5 attacks/) | Remedy Supernatural Blindness                       | Rust^2                        |
+    |      8 | Transmute Gold to Lead^2      | Take Up Arms^2                               | Walk on Water                                       | [[Stirring Effects][Stirring Sermon]]              |
 
 *** Stirring Effects
     [[file:images/stirring-stuff.png]]
@@ -560,3 +561,4 @@
      [[file:Rules/alcohol-effects_2017-08-27_14-34-52.jpg]]
      #+DOWNLOADED: file:///home/ajs/Documents/RPG%20shit/Hackmaster%20docs/Hackmaster/MeteorD's%20campaign%20-%20The%20Winter%20Kingdom/images/hangovers.png @ 2017-08-27 14:34:55
      [[file:Rules/hangovers_2017-08-27_14-34-55.png]]
+     
