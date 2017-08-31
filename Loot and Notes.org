@@ -422,6 +422,7 @@
     [[file:images/tattoos.png]]
     [[file:images/4th-ed-rune-spells.png]]
 *** Flying Travel Speeds
+    Eagles travel ~70 mph with passengers. Probably up to 9 hours without rest.
     [[file:images/flying-speed.png]]
 ** Crafting
    A Grand Master (skill: 88+d10p) can make +2 stuff 4/10 of the time, +1 5/10
