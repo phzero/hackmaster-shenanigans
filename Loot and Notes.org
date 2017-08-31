@@ -472,20 +472,20 @@
    | Honeybrew              | N/A        | ~0.5 lbs    |               | 0.54k kcal    | N/A         |               |
 ** Spells available
 *** Estyr's Spells
-    | Number | First Level                                    | Second Level                                     | Third Level                                          | Fourth Level                                   |
-    |--------+------------------------------------------------+--------------------------------------------------+------------------------------------------------------+------------------------------------------------|
-    |      1 | Celestial Prognosis (/tells HP/)               | Alleviate Trauma (/cures ToP/)                   | Alter Emotion: Frighten (/Off. Fear/)                | Alert (/set ally init to cast/)                |
-    |      2 | Ceremony: Consecrate Divine Icon               | Bless (/buff/)                                   | Bless Weapon                                         | Command (/Give one order (e.g. die) to enemy/) |
-    |      3 | Extend Fuel                                    | Ceremony: Anoint                                 | Breeze (/mild breeze/)                               | Cure Minor Wound (/d6p; *d6p+1* /)         |
-    |      4 | Induce Sobriety                                | Cure Trifling Wound (/d3p; *d4p* /)                | Curse, Petty (/Dbuff/)                               | Divine Providence (/buff: 4 luck points/)      |
-    |      5 | Influence, Minor (/emotion increase/decrease/) | Detect Poison                                    | Detect Influence                                     | Divine Steward (/extremely weak servant/)      |
-    |      6 | Know North                                     | Know Position                                    | Endure Cold (/-30°F, 6 DR once/)                     | Enchanted Vestments (Unum) (/armor self-buff/) |
-    |      7 | Moderate Emotion: Reduce Fear                  | Moderate Elemental Damage (/Def. vs. elemental/) | Endure Heat (/135°F, 6 DR once/)                     | Faith Shield (Duae) (/same as small shield/)   |
-    |      8 | Purify Water                                   | Moderate Emotion: Cause Fear                     | Fortify (/Enchant 2d3 food, 1 HP each, max 3/)       | Identify Poison                                |
-    |      9 | Sense Divine Magic                             | Perspicillum (M2)                                | Illumination: Torch                                  | Inflict Small Wound (/d8p+1 on touch/)         |
-    |     10 | Sense Presence of Evil                         | Purify Food                                      | Imperceptibility to Undead (/if Undead Will<Level/)  | Influence (/Give emotion to uncaring target/)  |
-    |     11 | Sense Presence of Good                         | Rejuvenate (/removes fatigue/)                   | Improve Vigilance (/one better init die/)            | Kismet (/Mulligan buff/)                       |
-    |     12 | Translate (M1)                                 | Reveal Pits & Snares                             | Sterilize (/e.g. First Aid success on Wounds=level/) | Speed of the Devout (/-1 Speed for 1 attack/)  |
+    | Number | First Level                                       | Second Level                                     | Third Level                                          | Fourth Level                                   |
+    |--------+---------------------------------------------------+--------------------------------------------------+------------------------------------------------------+------------------------------------------------|
+    |      1 | Celestial Prognosis (/tells HP/)                  | Alleviate Trauma (/cures ToP/)                   | Alter Emotion: Frighten (/Off. Fear/)                | Alert (/set ally init to cast/)                |
+    |      2 | Ceremony: Consecrate Divine Icon                  | Bless (/buff/)                                   | Bless Weapon                                         | Command (/Give one order (e.g. die) to enemy/) |
+    |      3 | Extend Fuel                                       | Ceremony: Anoint                                 | Breeze (/mild breeze/)                               | Cure Minor Wound (/d6p; *d6p+1* /)             |
+    |      4 | Induce Sobriety                                   | Cure Trifling Wound (/d3p; *d4p* /)              | Curse, Petty (/Dbuff/)                               | Divine Providence (/buff: 4 luck points/)      |
+    |      5 | Influence, Minor (/emotion increase or decrease/) | Detect Poison                                    | Detect Influence                                     | Divine Steward (/extremely weak servant/)      |
+    |      6 | Know North                                        | Know Position                                    | Endure Cold (/-30°F, 6 DR once/)                     | Enchanted Vestments (Unum) (/armor self-buff/) |
+    |      7 | Moderate Emotion: Reduce Fear                     | Moderate Elemental Damage (/Def. vs. elemental/) | Endure Heat (/135°F, 6 DR once/)                     | Faith Shield (Duae) (/same as small shield/)   |
+    |      8 | Purify Water                                      | Moderate Emotion: Cause Fear                     | Fortify (/Enchant 2d3 food, 1 HP each, max 3/)       | Identify Poison                                |
+    |      9 | Sense Divine Magic                                | Perspicillum (M2)                                | Illumination: Torch                                  | Inflict Small Wound (/d8p+1 on touch/)         |
+    |     10 | Sense Presence of Evil                            | Purify Food                                      | Imperceptibility to Undead (/if Undead Will<Level/)  | Influence (/Give emotion to uncaring target/)  |
+    |     11 | Sense Presence of Good                            | Rejuvenate (/removes fatigue/)                   | Improve Vigilance (/one better init die/)            | Kismet (/Mulligan buff/)                       |
+    |     12 | Translate (M1)                                    | Reveal Pits & Snares                             | Sterilize (/e.g. First Aid success on Wounds=level/) | Speed of the Devout (/-1 Speed for 1 attack/)  |
 
     | Number | Fifth Level                                | Sixth Level                                        | Seventh Level                                 | Eighth Level                                   |
     |--------+--------------------------------------------+----------------------------------------------------+-----------------------------------------------+------------------------------------------------|
@@ -504,7 +504,7 @@
     |--------+-------------------------------------------------+-----------------------------------------------------+----------------------------------------------------------+------------------------------------------|
     |      1 | Alleviate Fatigue (/removes fatigue penalties/) | Age (/ages 2d12p months/)                           | Cure Intermediate Wound (/3d4p+3; *2d8p+4* /)                | Enchanted Vestments (Trium)              |
     |      2 | Decay (/decays nonliving objects/)              | Analgesic (/buff: -4 to ToP/)                       | Emotion Shielding (/def. vs. mind reading, mental etc./) | Inflict Large Wound (/4d4p+4/)           |
-    |      3 | Extinguish (/only for non-magical/)             | Create Campsite (/food, etc. set up/)               | Fiery Furnace (/DR15 vs. fire/)                          | Repair Torn Tendon/Ligament              |
+    |      3 | Extinguish (/only for non-magical/)             | Create Campsite (/food, etc. set up/)               | Fiery Furnace (/DR15 vs. fire/)                          | Repair Torn Tendon;Ligament           |
     |      4 | Heavenly Luck (/Mulligan/)                      | Cure Medium Wound (/3d4p+2; *2d8p+3* /)                | Clairoptikos (M9)                                        | Resist Acid or Caustic (/12 DR/)         |
     |      5 | Clairaudience (M8)                              | Dismiss Enchantment (/end other spell/)             | Mass Influence (/emotion induction/)                     | Samar's Beacon (M11) (/track metal/)     |
     |      6 | Mend Muscle Tear (/fixes that crit injury/)     | Faith Weaponry (/+3 dmg, 5 weapons, 5 succ. atks/)  | Miracle Meal (/7 lbs. food per level/)                   | Speak to the Dead                        |
