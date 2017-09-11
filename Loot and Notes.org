@@ -1,3 +1,52 @@
+* List for Meteor, between-session shenanigans
+** Io-Nis
+   - Skin the Rakshasa
+     - Have the servants sew back the Rakshasa's clothes
+   - Contact Black Mamba and get some information gatherers out for Wilhace,
+     Hygron, Dhoire and Dhoire's whole mage guild. Also tell him to collect me a
+     list of assassins willing to take the job, maybe local assassins native to
+     the Kingdoms of Kalamar. Use some birds to send the message to him back on
+     the turtle.
+     - Also send a letter of thanks to the Huntress, in case she's back on the
+       turtle, for her generosity in letting us stay on the turtle for travel.
+   - Make some It-Mix in the nearest mountain
+   - Read the Alchemy book for more recipes
+   - Nearest town
+     - Sell loot
+       - 2x Shortsword (10 sp ea.)
+       - 2x Saber (18 sp ea.)
+       - 1 Light Crossbow (35 sp ea.)
+       - 9 small shields (15 sp ea.)
+       - 5 golden rings from Slen (13-16 gp each)
+     - Get craftsman to make the Rakshasa's head into a helmet for Carrot
+   - Call Lyra, Rob and Landry each day to debrief and to keep instructing them
+     in the arts of being a masterful +liar+ +bastard+ rogue.
+   - Write our recent exploits into the play
+   - Put the word out in Thybaj and Tharggy (through either disguising myself or
+     using the orphans/Black Mamba as an intermediary) that I need
+     - Actors 
+     - Minstrels and musicians (for singing the play, where no actors are
+       present, and for musical accompaniment to the main play)
+     - Stagehands
+     - Criers (for advertising and information-spreading)
+     - Painters/Artists (for posters, backgrounds, other misc. advertising etc.) 
+     - Costumers
+     - Propmakers (for the main showing)
+     - Laborers (to set up the stages, hang up the posters, etc.)
+     - Messengers (to coordinate the different showings)
+     - Spies (to make sure the others do their job. Read their mind to see if
+       they'll double-cross me).
+     - Perfumers (Purchase perfumes for the play's aromascape)
+     - Private Guards (to make sure the plays are not disturbed, and keep
+       pickpockets away. Mostly for main play)
+     - Bean counters (to handle ticket sales for the plays)
+     - Skinners
+     - Taxidermists
+     - Butchers
+     - Anatomy specialists (just a few to lead the effort)
+** Carrot
+** Estyr
+** Ella
 * Loot
   [[file:images/quality-item-resale.png]]
 ** Weapons and Armor appraisal
