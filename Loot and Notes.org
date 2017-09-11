@@ -1,7 +1,7 @@
 * List for Meteor, between-session shenanigans
 ** Io-Nis
    - Skin the Rakshasa
-     - Have the servants sew back the Rakshasa's clothes
+     - Have the servants mend the Rakshasa's clothes and appraise them
    - Contact Black Mamba and get some information gatherers out for Wilhace,
      Hygron, Dhoire and Dhoire's whole mage guild. Also tell him to collect me a
      list of assassins willing to take the job, maybe local assassins native to
@@ -29,21 +29,22 @@
        present, and for musical accompaniment to the main play)
      - Stagehands
      - Criers (for advertising and information-spreading)
+     - Butchers
      - Painters/Artists (for posters, backgrounds, other misc. advertising etc.) 
      - Costumers
      - Propmakers (for the main showing)
+     - Anatomy specialists (just a few to lead the effort)
      - Laborers (to set up the stages, hang up the posters, etc.)
      - Messengers (to coordinate the different showings)
+     - Skinners
      - Spies (to make sure the others do their job. Read their mind to see if
        they'll double-cross me).
      - Perfumers (Purchase perfumes for the play's aromascape)
+     - Taxidermists
      - Private Guards (to make sure the plays are not disturbed, and keep
        pickpockets away. Mostly for main play)
      - Bean counters (to handle ticket sales for the plays)
-     - Skinners
-     - Taxidermists
-     - Butchers
-     - Anatomy specialists (just a few to lead the effort)
+     - Rented cargo wagons
 ** Carrot
 ** Estyr
 ** Ella
