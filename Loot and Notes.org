@@ -15,11 +15,12 @@
    - House of Shackles Grand Oppressor clothes of unknown value. Believed to fetch
      a high price if an enthusiast Slen scholar were to be found (*?*)
    - 7 Scourges
-     - Six +2
-     - One +3
+     - Six +2 (200-250 sp. each)
+     - One +3 (400; 800-1000 sp. for standard/Order of Agony)
 ** Misc.
    - 15 toy trains (8 sp each for fixed, 3 broken are worthless)
    - 5 golden rings from Slen (13-16 gp each)
+   - 800-1200 gp of Svimohzian high art and jewelry
 * Plot and Character Notes
   - *Hall of Oaths* will fuck me over wherever they can find me, thanks to the whole mixup in Hell.
     - All of Torakk is now our enemy
@@ -60,11 +61,10 @@
        Has magical armor that will grow in the presence of a Pixie-Fairy Mother
        Tree.
 **** Other location
-     - *Landeir*
-
-       /Is in a place where there are only gnomes./
-
-       Is near the Swamp, Mabon knows where
+     - Landeir
+       
+       We now know where she is, and have recruited her. She was hanging around
+       the Gnome village by Lake Jorakk
      - Above K9
 
        Last seen headed to Narrajy forest. Qualifies for Mage/Thief Master for
@@ -76,7 +76,7 @@
      Mother Tree planted itself from a different region to here from Svimohzia
      in Shynabyth
 ***** Archmages of Shynabyth
-      1) Lea (Abandoned Shynabyth)
+      1) Lea (Dhoire's Wife)
       2) Hans (In our Party)
       3) Deceased Follower
       4) Deceased Follower
@@ -138,102 +138,102 @@
 * Objectives
 ** Calamities
 *** Dragon
-**** TODO Speech to the Dragon
-     "If you're listening, O Hallowed One, this is Io-Nis. I wish you
-     congratulations on a job well-and-thoroughly done with Shynabyth. I trust
-     the information I gave you was complete and you found your way there with
-     relative ease, and my directions did not misguide you.
+**** Speech to the Dragon
+#      "If you're listening, O Hallowed One, this is Io-Nis. I wish you
+#      congratulations on a job well-and-thoroughly done with Shynabyth. I trust
+#      the information I gave you was complete and you found your way there with
+#      relative ease, and my directions did not misguide you.
 
-     I understand our behaviour may seem unforgivable at first glance, so I will
-     do my best to explain. This might be a problem, though, because you are a
-     god given physical form. An existence so far above us, we mortals are as
-     lice unto you. This is where the problem starts, because a god cannot lower
-     itself, reduce itself to the thinking of lice. A god cannot, will not and
-     should not understand the thoughts of lowly mortals, because to do so would
-     be a tragedy, the dishonor of having to degrade oneself so far beneath one's
-     station.
+#      I understand our behaviour may seem unforgivable at first glance, so I will
+#      do my best to explain. This might be a problem, though, because you are a
+#      god given physical form. An existence so far above us, we mortals are as
+#      lice unto you. This is where the problem starts, because a god cannot lower
+#      itself, reduce itself to the thinking of lice. A god cannot, will not and
+#      should not understand the thoughts of lowly mortals, because to do so would
+#      be a tragedy, the dishonor of having to degrade oneself so far beneath one's
+#      station.
 
-     I, however, understand us mortals. And I therefore give a prayer unto you,
-     if you would listen. 
+#      I, however, understand us mortals. And I therefore give a prayer unto you,
+#      if you would listen. 
     
-     Mortals are flighty, desperate, ignorant and weak. As Wilhace has shown,
-     some are cowards. But if it's true that you've been watching us all this
-     time, surely you must've seen Mheel, as well. A mortal, but one willing to
-     wrestle with another god given physical form, even though her life was then
-     forfeit. No coward, simply very determined in her futile desire to do
-     *anything* to face her fear.
+#      Mortals are flighty, desperate, ignorant and weak. As Wilhace has shown,
+#      some are cowards. But if it's true that you've been watching us all this
+#      time, surely you must've seen Mheel, as well. A mortal, but one willing to
+#      wrestle with another god given physical form, even though her life was then
+#      forfeit. No coward, simply very determined in her futile desire to do
+#      *anything* to face her fear.
 
-     That is what Mabon is doing. That is what all those who oppose you are
-     doing. Because they fear you. They don't understand you. Fear is not
-     respect, they think you mindless because you are so far above them, and so
-     they think their only option for survival is to stop you or die trying, and
-     so the lice will die trying, because there is no stopping you.
+#      That is what Mabon is doing. That is what all those who oppose you are
+#      doing. Because they fear you. They don't understand you. Fear is not
+#      respect, they think you mindless because you are so far above them, and so
+#      they think their only option for survival is to stop you or die trying, and
+#      so the lice will die trying, because there is no stopping you.
 
-     Winged god, nothing less is worthy of your name than lordship and worship of
-     all of the world, but you cannot lower yourself to our level. You cannot
-     understand our cowardice, our weakness and our foolhardiness. And so some
-     will try to fight you, instead of embracing you. And lice never disappear
-     completely. None of those who oppose you could truly harm you, winged god,
-     but even the itch of a flea can be annoying. Annoyance. Constant annoyance
-     for as long as mortals continue to exist yet fail to understand you. But we
-     do differ from lice in one respect, Hallowed One, and that is in that we
-     know how to follow orders.
+#      Winged god, nothing less is worthy of your name than lordship and worship of
+#      all of the world, but you cannot lower yourself to our level. You cannot
+#      understand our cowardice, our weakness and our foolhardiness. And so some
+#      will try to fight you, instead of embracing you. And lice never disappear
+#      completely. None of those who oppose you could truly harm you, winged god,
+#      but even the itch of a flea can be annoying. Annoyance. Constant annoyance
+#      for as long as mortals continue to exist yet fail to understand you. But we
+#      do differ from lice in one respect, Hallowed One, and that is in that we
+#      know how to follow orders.
 
-     You could make a better god-emperor than any mortal king, and with only a
-     little work, the pest that is now an annoyance could be turned into an army
-     supplicated before you in servitude. Because you see, I *do* understand
-     mortals. Mheel had no reason to do all the things she did. She sacrificed
-     her soul, but for what goal? She had none except that I lead her. The same
-     could be said for most of my companions, for entire armies willing to die,
-     because I understand them.
+#      You could make a better god-emperor than any mortal king, and with only a
+#      little work, the pest that is now an annoyance could be turned into an army
+#      supplicated before you in servitude. Because you see, I *do* understand
+#      mortals. Mheel had no reason to do all the things she did. She sacrificed
+#      her soul, but for what goal? She had none except that I lead her. The same
+#      could be said for most of my companions, for entire armies willing to die,
+#      because I understand them.
 
-     I would sooner see you ascend the world and make the heavens your throne
-     than the genocidal fools of Kalamar, the self-righteous petulant children of
-     Slen, the arrogant weaklings of Torakk or any of the other mortal pests.
-     Even many of the gods seem less fit to rule than you.
+#      I would sooner see you ascend the world and make the heavens your throne
+#      than the genocidal fools of Kalamar, the self-righteous petulant children of
+#      Slen, the arrogant weaklings of Torakk or any of the other mortal pests.
+#      Even many of the gods seem less fit to rule than you.
 
-     So I give unto you this prayer, Hallowed One. Speak to me. Let me be your
-     voice and let the world know that you are willing to let the lice live, so
-     long as they know their place. That if they bend their knees to you, that
-     you will be the just, the almighty and the unstoppable leader that they can
-     willingly serve. Forgive us of our sins, and let me administrate your will.
+#      So I give unto you this prayer, Hallowed One. Speak to me. Let me be your
+#      voice and let the world know that you are willing to let the lice live, so
+#      long as they know their place. That if they bend their knees to you, that
+#      you will be the just, the almighty and the unstoppable leader that they can
+#      willingly serve. Forgive us of our sins, and let me administrate your will.
     
-     I am skilled in the arts of administration, of managing the herds of your
-     servants-to-be. The people, they will listen to your words through me. They
-     will serve you, if only you give us this chance, to prove to all that you
-     will rule us better than the mortals we abandon.
+#      I am skilled in the arts of administration, of managing the herds of your
+#      servants-to-be. The people, they will listen to your words through me. They
+#      will serve you, if only you give us this chance, to prove to all that you
+#      will rule us better than the mortals we abandon.
 
-     My wish from last we met is still unfulfilled, but I fear I may not get
-     another chance to answer your question, so let the request I wished of you
-     be thus answered: I have found the whereabouts of the strongest mages in the
-     Wild Lands. There are three candidates of whom I know, a witch, a heretic
-     and a being of the night, but what I have heard is that all the mages of the
-     Wild Lands pale in comparison to the archmages of Kalamar. That all the
-     archmages of Kalamar are of a caliber entirely unlike anything or anyone in
-     the Wild Lands.
+#      My wish from last we met is still unfulfilled, but I fear I may not get
+#      another chance to answer your question, so let the request I wished of you
+#      be thus answered: I have found the whereabouts of the strongest mages in the
+#      Wild Lands. There are three candidates of whom I know, a witch, a heretic
+#      and a being of the night, but what I have heard is that all the mages of the
+#      Wild Lands pale in comparison to the archmages of Kalamar. That all the
+#      archmages of Kalamar are of a caliber entirely unlike anything or anyone in
+#      the Wild Lands.
 
-     If this is true, then it stands to reason you would enact your divine
-     justice upon them next. So I ask you this: If you have heard our plea, if
-     you will rule us in peace, and be our rightful god-emperor, then burn down
-     first the duchy of Dodera. I do not mean to insinuate that I can tell you
-     what you should or should not do, O Hallowed One. Dodera is simply close to
-     your current location and I wished to inconvenience you least possible. I
-     see no way you could contact us directly, but if Dodera is the first to fall
-     to your flame, whenever you may want to enter Kalamar, then I will know that
-     it is a sign that the mortal kings are dead for good, and the god-emperor
-     long shall reign. I shall then try to find you so that we may plan, so that
-     your decrees may be done, so that I may help you by bringing your will upon
-     the lice.
+#      If this is true, then it stands to reason you would enact your divine
+#      justice upon them next. So I ask you this: If you have heard our plea, if
+#      you will rule us in peace, and be our rightful god-emperor, then burn down
+#      first the duchy of Dodera. I do not mean to insinuate that I can tell you
+#      what you should or should not do, O Hallowed One. Dodera is simply close to
+#      your current location and I wished to inconvenience you least possible. I
+#      see no way you could contact us directly, but if Dodera is the first to fall
+#      to your flame, whenever you may want to enter Kalamar, then I will know that
+#      it is a sign that the mortal kings are dead for good, and the god-emperor
+#      long shall reign. I shall then try to find you so that we may plan, so that
+#      your decrees may be done, so that I may help you by bringing your will upon
+#      the lice.
 
-     If you do not, well... I too am but a louse. One that knows the futility of
-     its attempts to survive, if you do not give this grace unto him, but
-     nonetheless a louse. If I cannot use reason, then I must fall back to
-     instinct. I pray unto you and all the other gods that it not come to that,
-     for undoubtedly I will die and you will be annoyed when the mortals will not
-     be organized to serve you. Thus, I hope that you decide to make your eternal
-     rule as easy for yourself as possible and forgive, and talk with us.
+#      If you do not, well... I too am but a louse. One that knows the futility of
+#      its attempts to survive, if you do not give this grace unto him, but
+#      nonetheless a louse. If I cannot use reason, then I must fall back to
+#      instinct. I pray unto you and all the other gods that it not come to that,
+#      for undoubtedly I will die and you will be annoyed when the mortals will not
+#      be organized to serve you. Thus, I hope that you decide to make your eternal
+#      rule as easy for yourself as possible and forgive, and talk with us.
     
-     Until next we speak, amen."
+#      Until next we speak, amen."
 **** TODO Gather the Armies
 ***** TODO [#A] Devils
 ***** TODO [#A] Frost Giants
@@ -241,6 +241,7 @@
 ***** TODO [#B] Tharggy
 ***** TODO [#B] Thybaj
 ***** TODO [#B] Reeanaria
+***** TODO [#B] Lizardpeople
 ***** DONE Torakk                                                    :failed:
       We managed to convince the King of Torakk to lend us his aid, but he was
       murdered by his daughter in a coup d'etat, and all of Torakk now wishes us
@@ -249,31 +250,34 @@
       CLOSED: [2017-08-22 Tue 19:19]
       The Church of the Night's Beauty has promised the aid of the Xulith. If we
       manage to get it back alive, they'll even help us with Calvarium.
-***** TODO [#C] Rakshasa and friends
-***** TODO [#B] Lich
-***** TODO [#B] Kerry King the Vampire
-***** TODO [#B] Lizardpeople
+***** DONE [#C] Rakshasa and friends                                 :failed:
+      CLOSED: [2017-09-11 Mon 16:51]
+***** DONE [#B] Lich                                                :success:
+      CLOSED: [2017-09-11 Mon 16:50]
+***** DONE [#B] Kerry King the Vampire                                  :N_A:
+      CLOSED: [2017-09-11 Mon 16:54]
 **** TODO [#A] Find Mages for Ritual
 ***** Candidates
       1. Io-Nis?
       2. The Blacksmith
-      3. Landeir
+      3. +Landeir+ +Failure+ *Success*
       4. Above K9
       5. The Witch of the Kannej Swamp
-      6. The Witches' Association
+      6. +The Witches' Association+ Success
       7. The Pixie-Fairies of Shynabyth
       8. The Pixie-Fairies of the Jorakk Mountains
-      9. Lich (Evil)
+      9. +Lich (Evil)+ Success
          - Always just watch your language.
-      10. Rakshasa (Evil)
-      11. Harken The Eagle Wizard (Evil?)
-      12. The Archmages of Shynabyth (ew) (Evil)
+      10. Harken The Eagle Wizard
+      11. +Rakshasa (Evil)+ Failure, but we "recruited" his money
+      12. +The Archmages of Shynabyth (ew) (Evil)+ Failure
 ***** Confirmed
       1. Ella
       2. Mabon
       3. Hans
-      4. ?
-      5. ?
+      4. White Dame
+      5. Lich
+      6. Landeir
 **** TODO Prepare the loot wagons
      There is no doubt that killing the dragon will provide an incredibly
      lucrative opportunity to make use of its corpse.
@@ -340,49 +344,86 @@
 **** Class-divided performances
      - Lower class: free, but no acting, just someone reading the play.
      - Mid-class: Paid actors
-     - Noble Class: Me
+     - Noble Class: Me and the greatest Thespians
 **** Merchandise
 *** Plot
-    
-**** Day One
-***** Act 1: The Past
-**** Day Two
-**** Day Three
+**** Day One: The Past
+***** Act 1: The Beginning
+***** Act 2: 
+***** Act 3: 
+**** Day Two: The Present
+***** Act 1: Io-Nis
+***** Act 2: 
+***** Act 3: The Calamity
+**** Day Three: The Future
+***** Act 1: 
 ** TODO Escort Lyra to Bynarr
 ** Area Quests
+*** Wake the Sleeping Dragon                               :jorakk_mountains:
+*** Get a Mother Tree Seed                       :shynabyth:jorakk_mountains:
+** Kill List
+*** TODO Dragon
+*** Snek
+*** Calvarium
+*** The Hall of Oaths
+**** Linda the Kinslayer
+**** The Speaker of the Word
+**** Everyone Else
+*** [#C] Jimmy Crockers
+    Only if he's still doing the revolution thing and genociding dwarves
+*** [#C] Wilhace
+    Outside jurisdiction. 
+*** [#C] Weras
+    Outside jurisdiction. 
+*** [#C] Ipho the Chief
+*** (Pardoned)
+**** Landeir
+**** The Lich
+**** Kerry King
+**** Frost Giants
+**** The Night's Beauty
 * Special Inventory
 ** (Semi-)Magical Items
    1) Scissors that cut through metal like paper
    2) Trollslapper +6
-   3) Wand of Water
-   4) +Chestful of Water+
-      
-      We don't actually know if this is magical though.
-      - Turns out it wasn't magical, but we traded it for pipes of expensive weed.
-   5) Magic Shovel
-   6) Hellstone Shovel
-   7) Teleport Ring
+   3) Wand of Water (*?* charges)
+   4) Magic Shovel
+   5) Hellstone Shovel
+   6) Teleport Ring
 
       Oirocalo is the magic word to teleport to the island
 
       Teleport around everywhere has unknown activation word
-   8) God-sword shard
+   7) God-sword shard
 
-      About 40-50 cm in length, 15 cm in width on average. Assuming half-inch thickness (1.27 cm), it's about 8 kg.
-   9) Divine Bark
-   10) Communication Stones
-       - To the three Frost Giant clans
-         - Orichalcum
-       - To the Satyrs
-   11) Blessed Yeti-skin Coat
+      About 40-50 cm in length, 15 cm in width on average. Assuming half-inch
+      thickness (1.27 cm), it's about 8 kg. Minimum +9 weapon.
+   8) Divine Bark
+   9) Communication Stones
+      - To the three Frost Giant clans
+        * Orichalcum
+        * Damascus
+        * Zodiac
+      - To the Satyrs
+      - To the Devils
+      - To the Lich
+      - To the Cyclopes
+   10) Blessed Yeti-skin Coat
 
        Blessed by Harald "Strong" Bardsson. Pixie-Fairy-sized.
-   12) Magical Anti-Dragon Necklace.
+   11) Magical Anti-Dragon Necklace.
        It's said to provide great protection against dragons, but it would take
        careful analysis to try and pin down exactly what it is. The necklace was
        bathed in the blood of a dragon that was slain by a great hero of past, and is
        said to be recognized as such a threat to dragons that it might even instill
        fear just by seeing it
+       
+       1. It can enchant one weapon to, for the next strike, if it hits, prevent
+          the dragon from flying.
+   12) +Chestful of Water+
+      
+       We don't actually know if this is magical though.
+       - Turns out it wasn't magical, but we traded it for pipes of expensive weed.
 ** Tools and Misc.
    - Pavillion
    - Portable Alchemist's Lab
@@ -391,13 +432,15 @@
      - One was smoked by the Passionate One
    - The Pixie-Fairie girls have about 50-60 knickknacks each worth 50-80 gp
    - Beekeeper's Clothes
-   - Spellbooks
+   - Books
      - Fantastic Four spell list
        [[file:spellbook-spells.pdf]]
      - Fritz
+     - Diary of Lord Thorn, +Kerry King's real name?+
+       Lord Thorn is the previous owner of Kerry's mansion.
    - Maps
-     - Good Star Chart
      - Good Continental Map
+     - Good Star Chart
    - Spyglass
 *** Personal
     - Exquisite Pixie-Fairy Dress Gown (10 gp)
@@ -440,7 +483,21 @@
      For half-sphere, $V = \frac{2}{3} \pi r_{inner}^3$ meaning that for $V = 20
      L$, inner radius must be 21.216 cm. Assuming a thickness of 0.476 cm, this
      results in outer radius 21.916 cm, and a volume of gold: 
-     $V_{out}-V_{in} = \frac{2}{3} \pi 21.692^3 - \frac{2}{3} \pi 21.216^3 = 1376.6\ \textrm{cm}^3$
+     $V_{out}-V_{in} = \frac{2}{3} \pi 21.692^3 - \frac{2}{3} \pi 21.216^3 = 1376.6\ \textrm{cm}^3$ which is approximately 26.6 kg gold. 
+     
+     An incorrect calculation was done by Mabon's friend.
+     [[file:images/badmath.png]] which results in (/ (* 698.5 19.3) 7.8) ≃ 13.48 kg = 1728.3 coins.
+     Maybe we can make Meteor think it's proper because it's got fancy triple integrals
+**** It-Mix
+     Brewed entirely with water. Special conditions necessary. Need to brew it
+     inside a mountain.
+     
+     Temperature control, switch between different ones, rapidly.
+
+     Increases looks by up to max. 0.5
+**** Cure for the Common Cold
+     Works within 30 minutes, can be made with common herbs found in most Fhokki
+     woods.
 ** Abusables
    - Bottomless Pouch
    - Flaming Missiles
@@ -448,6 +505,10 @@
      - Attach posters to ballista arrows
      - Make cannons using the explosive force of the script
    - Fracture Object has no saving throw
+   - Miracle Meal
+     - Lion God Blood
+     - Sugar
+     - Spices and herbs
 ** [[file:~/Documents/RPG%20shit/Hackmaster%20docs/Hackmaster/foodstuffs.org][Foodstuff]] Table
 	 | Weekly costs     |           |          |
 	 |------------------+-----------+----------|
@@ -477,16 +538,16 @@
     |--------+---------------------------------------------------+--------------------------------------------------+------------------------------------------------------+------------------------------------------------|
     |      1 | Celestial Prognosis (/tells HP/)                  | Alleviate Trauma (/cures ToP/)                   | Alter Emotion: Frighten (/Off. Fear/)                | Alert (/set ally init to cast/)                |
     |      2 | Ceremony: Consecrate Divine Icon                  | Bless (/buff/)                                   | Bless Weapon                                         | Command (/Give one order (e.g. die) to enemy/) |
-    |      3 | Extend Fuel                                       | Ceremony: Anoint                                 | Breeze (/mild breeze/)                               | Cure Minor Wound (/d6p [d6p+1]/)             |
-    |      4 | Induce Sobriety                                   | Cure Trifling Wound (/d3p [d4p]/)               | Curse, Petty (/Dbuff/)                               | Divine Providence (/buff: 4 luck points/)      |
+    |      3 | Extend Fuel                                       | Ceremony: Anoint                                 | Breeze (/mild breeze/)                               | Cure Minor Wound (/d6p [d6p+1]/)               |
+    |      4 | Induce Sobriety                                   | Cure Trifling Wound (/d3p [d4p]/)                | Curse, Petty (/Dbuff/)                               | Divine Providence (/buff: 4 luck points/)      |
     |      5 | Influence, Minor (/emotion increase or decrease/) | Detect Poison                                    | Detect Influence                                     | Divine Steward (/extremely weak servant/)      |
     |      6 | Know North                                        | Know Position                                    | Endure Cold (/-30°F, 6 DR once/)                     | Enchanted Vestments (Unum) (/armor self-buff/) |
     |      7 | Moderate Emotion: Reduce Fear                     | Moderate Elemental Damage (/Def. vs. elemental/) | Endure Heat (/135°F, 6 DR once/)                     | Faith Shield (Duae) (/same as small shield/)   |
     |      8 | Purify Water                                      | Moderate Emotion: Cause Fear                     | Fortify (/Enchant 2d3 food, 1 HP each, max 3/)       | Identify Poison                                |
-    |      9 | Sense Divine Magic                                | Perspicillum^{(M2)}                                | Illumination: Torch                                  | Inflict Small Wound (/d8p+1 on touch/)         |
+    |      9 | Sense Divine Magic                                | Perspicillum^{(M2)}                              | Illumination: Torch                                  | Inflict Small Wound (/d8p+1 on touch/)         |
     |     10 | Sense Presence of Evil                            | Purify Food                                      | Imperceptibility to Undead (/if Undead Will<Level/)  | Influence (/Give emotion to uncaring target/)  |
     |     11 | Sense Presence of Good                            | Rejuvenate (/removes fatigue/)                   | Improve Vigilance (/one better init die/)            | Kismet (/Mulligan buff/)                       |
-    |     12 | Translate^{(M1)}                                    | Reveal Pits & Snares                             | Sterilize (/e.g. First Aid success on Wounds=level/) | Speed of the Devout (/-1 Speed for 1 attack/)  |
+    |     12 | Translate^{(M1)}                                  | Reveal Pits & Snares                             | Sterilize (/e.g. First Aid success on Wounds=level/) | Speed of the Devout (/-1 Speed for 1 attack/)  |
 
     | Number | Fifth Level                                | Sixth Level                                        | Seventh Level                                | Eighth Level                                   |
     |--------+--------------------------------------------+----------------------------------------------------+----------------------------------------------+------------------------------------------------|
@@ -545,16 +606,15 @@
     |      1 | Cursing, Wretched^{2} (/-2 atk, def, saving, -10% skill, 6 targets/)          | Age (/ages 2d12p months/)                                                             | Addle, Comprehensive^{3} (/-8 mental, -3 def, +5 init/)              | Debilitating Laughter^{3} (/target cannot act, d12p defense if save is failed/) |
     |      2 | Decay (/formerly living only, can destroy light and medium armor, shields/)   | Analgesic (/-4 to target's ToP saves/)                                                | Blessed Warmth (/12 DR vs cold pr. 10 sec, immune to natural cold/)  | Fire Breath 4^{3} (/4d8p+4, 10'x25' AoE/)                                      |
     |      3 | Dwarven Forbearance^{2} (/Target gets Dwarf CON-based bonus to poison, magic/) | Cure Medium Wound (/3d4p+2 [2d8+3]/)                                                  | Gale Force Wind (/40 mph wind/)                                      | Enchanted Vestments (Tertia) (/3 DR/)                                          |
-    |      4 | Fire Breath 3^{3} (/3d6p+6, 10'x20' AoE/)                                    | Dismiss Enchantment (/end other spell/)                                               | Inflict Severe Pain (/Force ToP save on next touch attack, no save/) | Find the Way^{2} (/Route to named destination revealed during travel/)         |
+    |      4 | Fire Breath 3^{3} (/3d6p+6, 10'x20' AoE/)                                     | Dismiss Enchantment (/end other spell/)                                               | Inflict Severe Pain (/Force ToP save on next touch attack, no save/) | Find the Way^{2} (/Route to named destination revealed during travel/)         |
     |      5 | Heavenly Luck (/target gets one mulligan/)                                    | EXTREME!!^{3} (/+2 atk, dmg, spd (min. 1), +2 when setting saving throws/)            | Miracle Meal (/Create 11 lbs. per level of held food/)               | Freedom of Motion (/Cannot be impaired in movement/)                           |
-    |      6 | Induce Fratricide^{(M7)} (/Victim with up to 50 hp attacks nearest thing/)   | Find Item (/30 ft. per level/)                                                        | Molotov^{3} (/4d6p fire in 20' diameter/)                            | Really Hungover, Entourage^{3} (/affects any number of people in 15' radius/)  |
+    |      6 | Induce Fratricide^{(M7)} (/Victim with up to 50 hp attacks nearest thing/)    | Find Item (/30 ft. per level/)                                                        | Molotov^{3} (/4d6p fire in 20' diameter/)                            | Really Hungover, Entourage^{3} (/affects any number of people in 15' radius/)  |
     |      7 | Remedy Supernatural Deafness                                                  | Speed of the Divine (/-3 speed; 5 attacks/)                                           | Remedy Supernatural Blindness                                        | Rust^{2} (/Rusts one metal item ≤ 60 lbs, 10% chance to save per +/)           |
     |      8 | Transmute Gold to Lead^{2} (/1 lb. gold per level/)                           | Take Up Arms^{2} (/1 obj. per level into weapon, +1 silvered if pref., can make ammo/) | Walk on Water                                                        | [[Stirring Effects][Stirring Sermon]]                                                                |
 
 *** Stirring Effects
     [[file:images/stirring-stuff.png]]
 
-*** Buff-list:
 ** Other
 *** Drunkenness
 **** Alcohol thresholds
@@ -568,3 +628,5 @@
      [[file:Rules/alcohol-effects_2017-08-27_14-34-52.jpg]]
      #+DOWNLOADED: file:///home/ajs/Documents/RPG%20shit/Hackmaster%20docs/Hackmaster/MeteorD's%20campaign%20-%20The%20Winter%20Kingdom/images/hangovers.png @ 2017-08-27 14:34:55
      [[file:Rules/hangovers_2017-08-27_14-34-55.png]]
+     
+     
