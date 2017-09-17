@@ -1,7 +1,5 @@
 * List for Meteor, between-session shenanigans
 ** Io-Nis
-   - Skin the Rakshasa
-     - Have the servants mend the Rakshasa's clothes and appraise them
    - Contact Black Mamba and get some information gatherers out for Wilhace,
      Hygron, Dhoire and Dhoire's whole mage guild. Also tell him to collect me a
      list of assassins willing to take the job, maybe local assassins native to
@@ -9,16 +7,6 @@
      the turtle.
      - Also send a letter of thanks to the Huntress, in case she's back on the
        turtle, for her generosity in letting us stay on the turtle for travel.
-   - Make some It-Mix in the nearest mountain
-   - Read the Alchemy book for more recipes
-   - Nearest town
-     - Sell loot
-       - 2x Shortsword (10 sp ea.)
-       - 2x Saber (18 sp ea.)
-       - 1 Light Crossbow (35 sp ea.)
-       - 9 small shields (15 sp ea.)
-       - 5 golden rings from Slen (13-16 gp each)
-     - Get craftsman to make the Rakshasa's head into a helmet for Carrot
    - Call Lyra, Rob and Landry each day to debrief and to keep instructing them
      in the arts of being a masterful +liar+ +bastard+ rogue.
    - Write our recent exploits into the play
@@ -45,31 +33,22 @@
        pickpockets away. Mostly for main play)
      - Bean counters (to handle ticket sales for the plays)
      - Rented cargo wagons
-** Carrot
-** Estyr
-** Ella
 * Loot
   [[file:images/quality-item-resale.png]]
 ** Weapons and Armor appraisal
-   - 2x Shortsword (10 sp ea.)
-   - 2x Saber (18 sp ea.)
-   - +3 Excellent Saber  (*?*)
+   - +3 Excellent Saber  (2200 sp)
    - Cooking Knife (*?*)
-   - 2x Light Crossbow (35 sp ea.)
    - 2x Knife (5 cp ea.)
-   - 2x Black Leather Armor (Basic Leather Armor: 6 sp)
-   - Finely woven, very tolerable to damage battle-clothing from Banded Krait (*?*)
-   - 9 small shields (15 sp ea.)
-   - Black Hood with decorative rim with fine details that would be used by a high
-     ranking individual with a single shoulder pad on one side (*?*)
+   - Finely woven, very tolerable to damage battle-clothing from Banded Krait (180 sp)
+   - Black Hood with decorative rim with fine details that would be used by a
+     high ranking individual with a single shoulder pad on one side
+     (/Priceless/. Turned out to be basically the pope's hat.)
    - House of Shackles Grand Oppressor clothes of unknown value. Believed to fetch
-     a high price if an enthusiast Slen scholar were to be found (*?*)
-   - 7 Scourges
-     - Six +2 (200-250 sp. each)
-     - One +3 (400; 800-1000 sp. for standard/Order of Agony)
+     a high price if an enthusiast Slen scholar were to be found (100 gp)
+   - Rakshasa clothes (*?*)
+   - Rakshasa hide (*?*)
 ** Misc.
    - 15 toy trains (8 sp each for fixed, 3 broken are worthless)
-   - 5 golden rings from Slen (13-16 gp each)
    - 800-1200 gp of Svimohzian high art and jewelry
 * Plot and Character Notes
   - *Hall of Oaths* will fuck me over wherever they can find me, thanks to the whole mixup in Hell.
@@ -121,6 +100,8 @@
        Io-Nis, maybe.
      - Black Mamba
      - Ur-Quan
+       Is currently training at the Temple of the Three Strengths near Tharggy.
+       Has assembled a group of adventurers/heroes. 
 *** Areas
 **** Shynabyth
      Mother Tree planted itself from a different region to here from Svimohzia
@@ -161,7 +142,7 @@
       - Sleeping Dragon
 *** Misc.
     - Kerry King the Vampire
-
+      
       Has marked Wilhace. I'll tell Wilhace to keep his teeth clean. His mansion
       will appear on the corner of Upper Byth River and Slen.
     - Harken the Archmage
@@ -176,6 +157,13 @@
     - Devils — like evil 
     - Cyclopes
 **** Groups
+***** Ur-Quan's Heroes
+     - Lophi the Paladin
+     - Kobold
+     - Dwarf
+     - Mage
+     - Cupbearer
+     - 
 *** Larger Organizations
 **** Church of Night's Beauty
      - Relius Kendran, Patriach of Pelselond, leader of Slen.
@@ -285,9 +273,13 @@
     
 #      Until next we speak, amen."
 **** TODO Gather the Armies
-***** TODO [#A] Devils
-***** TODO [#A] Frost Giants
-***** TODO [#A] Cyclopes
+     We will meet them one month from Mid-Season 17th at the Eastern border of Shynabyth, by the river.
+***** DONE Devils
+      CLOSED: [2017-09-15 Fri 21:53]
+***** DONE Frost Giants
+      CLOSED: [2017-09-15 Fri 21:54]
+***** DONE Cyclopes
+      CLOSED: [2017-09-15 Fri 21:53]
 ***** TODO [#B] Tharggy
 ***** TODO [#B] Thybaj
 ***** TODO [#B] Reeanaria
@@ -408,9 +400,14 @@
 **** Day Three: The Future
 ***** Act 1: 
 ** TODO Escort Lyra to Bynarr
-** Area Quests
+** Area/Companion Quests
 *** Wake the Sleeping Dragon                               :jorakk_mountains:
 *** Get a Mother Tree Seed                       :shynabyth:jorakk_mountains:
+*** Secure the Tadpoles/Get the Mother Tree Artifact :yaqub:tharggy:ryakk_woods:
+    Yaqub the frog has a bunch of tadpoles in his pond in the Ryakk Woods. He's
+    okay with us tearing down the tree and getting the bone of an Age of the
+    Gods being with immeasurable magic potential, if we make sure his tadpoles
+    are fine with it. It will mean the death of the heretic Mother Tree.
 ** Kill List
 *** TODO Dragon
 *** Snek
@@ -421,8 +418,8 @@
 **** Everyone Else
 *** [#C] Jimmy Crockers
     Only if he's still doing the revolution thing and genociding dwarves
-*** [#C] Wilhace
-    Outside jurisdiction. 
+*** [#B] Wilhace
+    Outside jurisdiction.
 *** [#C] Weras
     Outside jurisdiction. 
 *** [#C] Ipho the Chief
@@ -436,20 +433,19 @@
 ** (Semi-)Magical Items
    1) Scissors that cut through metal like paper
    2) Trollslapper +6
-   3) Wand of Water (*?* charges)
+   3) Wand of Water (89(?) charges)
    4) Magic Shovel
    5) Hellstone Shovel
-   6) Teleport Ring
+   6) Teleport Ring (Ella's possession)
 
       Oirocalo is the magic word to teleport to the island
 
       Teleport around everywhere has unknown activation word
    7) God-sword shard
-
+      
       About 40-50 cm in length, 15 cm in width on average. Assuming half-inch
       thickness (1.27 cm), it's about 8 kg. Minimum +9 weapon.
-   8) Divine Bark
-   9) Communication Stones
+   8) Communication Stones
       - To the three Frost Giant clans
         * Orichalcum
         * Damascus
@@ -458,25 +454,34 @@
       - To the Devils
       - To the Lich
       - To the Cyclopes
-   10) Blessed Yeti-skin Coat
-
-       Blessed by Harald "Strong" Bardsson. Pixie-Fairy-sized.
-   11) Magical Anti-Dragon Necklace.
-       It's said to provide great protection against dragons, but it would take
-       careful analysis to try and pin down exactly what it is. The necklace was
-       bathed in the blood of a dragon that was slain by a great hero of past, and is
-       said to be recognized as such a threat to dragons that it might even instill
-       fear just by seeing it
+   9) Magical Anti-Dragon Necklace. (Mabon's possession)
+      It's said to provide great protection against dragons, but it would take
+      careful analysis to try and pin down exactly what it is. The necklace was
+      bathed in the blood of a dragon that was slain by a great hero of past, and is
+      said to be recognized as such a threat to dragons that it might even instill
+      fear just by seeing it.
        
-       1. It can enchant one weapon to, for the next strike, if it hits, prevent
-          the dragon from flying.
-   12) +Chestful of Water+
+      1. It can enchant one weapon to, for the next strike, if it hits, prevent
+         the dragon from flying.
+   10) Io-Nis ::
+       - Blessed Yeti-skin Coat
+
+         Blessed by Harald "Strong" Bardsson. Pixie-Fairy-sized.
+       - 10 portions It-Mix
+       - Divine Bark. The bark of the son of the Great Tree, prior to its
+         corruption. A gift from the Huntress.
+       - 2 magical seeds. When crawling through the crown of one, can teleport
+         to the crown of the others. The third seed was planted on the Giant Turtle.
+   11) Carrot ::
+       - Rakshasa Head Helmet. Gives +20% intimidate.
+   12) Expended/Lost ::
+       - +Chestful of Water+
       
-       We don't actually know if this is magical though.
-       - Turns out it wasn't magical, but we traded it for pipes of expensive weed.
+         We don't actually know if this is magical though.
+         - Turns out it wasn't magical, but we traded it for pipes of expensive weed.
 ** Tools and Misc.
-   - Pavillion
-   - Portable Alchemist's Lab
+   - Regular [[Loot]] 
+   - Pavillion /(240 ft^{2} maybe? Should ask Meteor)/
    - ≃14 gp silver ring from Kerry King the vampire lord. Utterly mundane.
    - +2+ 1 pipe of about 60 gp super-weed
      - One was smoked by the Passionate One
@@ -485,14 +490,12 @@
    - Books
      - Fantastic Four spell list
        [[file:spellbook-spells.pdf]]
-     - Fritz
-     - Diary of Lord Thorn, +Kerry King's real name?+
+     - Fritz's Spellbook and Diary. /(Ella's possession)/
+     - Diary of Lord Thorn, +Kerry King's real name?+ /(Estyr's Possession)/
        Lord Thorn is the previous owner of Kerry's mansion.
-   - Maps
-     - Good Continental Map
-     - Good Star Chart
-   - Spyglass
-*** Personal
+   - Maps. 
+   - Spyglass. 
+*** Io-Nis
     - Exquisite Pixie-Fairy Dress Gown (10 gp)
     - Excellent Svimohzian-style Jewelry (6 gp)
     - Perfumes
@@ -501,6 +504,7 @@
       - 2 oz. Clove Oil (1 month of my supply 5 sp)
     - Pixie-Fairy journal
     - Fine leather garments with fur trim (20 sp)
+    - Portable Alchemist's Lab
     - Servant clothes
       - Exquisite 5 gp dress and veil for Lyra
         - Veil for Landry
@@ -525,29 +529,36 @@
 *** Craft: Alchemy
 **** Minor Healing Potion
 **** Tonic of Fool's Gold
-     Can be applied to metal, to change its properties to those of riches.
-     
-     Ingredients can probably be bought easily in a city, but it has to be made
-     in a golden cauldron of at least 20 liters. 
-
-     For half-sphere, $V = \frac{2}{3} \pi r_{inner}^3$ meaning that for $V = 20
-     L$, inner radius must be 21.216 cm. Assuming a thickness of 0.476 cm, this
-     results in outer radius 21.916 cm, and a volume of gold: 
-     $V_{out}-V_{in} = \frac{2}{3} \pi 21.692^3 - \frac{2}{3} \pi 21.216^3 = 1376.6\ \textrm{cm}^3$ which is approximately 26.6 kg gold. 
-     
-     An incorrect calculation was done by Mabon's friend.
-     [[file:images/badmath.png]] which results in (/ (* 698.5 19.3) 7.8) ≃ 13.48 kg = 1728.3 coins.
-     Maybe we can make Meteor think it's proper because it's got fancy triple integrals
+***** Creation Process and Materials
+      - Materials: Unspecified, but easily accessible in any city.
+      - Creation Process: Unspecified, but known.
+      - Special Conditions: Must be brewed in golden cauldron of at least 20
+        liter capacity. Unspecified whether gold-plated or solid gold.
+        - An incorrect calculation was done by Mabon's friend.
+          [[file:images/badmath.png]] which results in (/ (* 698.5 19.3) 7.8) ≃ 13.48 kg = 1728.3 coins.
+          Maybe we can make Meteor think it's proper because it's got fancy triple integrals
+          - Calculations as done by us: For half-sphere, $V = \frac{2}{3} \pi
+            r_{inner}^3$ meaning that for $V = 20 L$, inner radius must be
+            21.216 cm. Assuming a thickness of 0.476 cm, this results in outer
+            radius 21.916 cm, and a volume of gold: $V_{out}-V_{in} =
+            \frac{2}{3} \pi 21.692^3 - \frac{2}{3} \pi 21.216^3 = 1376.6\
+            \textrm{cm}^3$ which is approximately 26.6 kg gold.
+***** Use/Effect:
+      Can be applied to metal, to change its properties to those of riches.
 **** It-Mix
-     Brewed entirely with water. Special conditions necessary. Need to brew it
-     inside a mountain.
-     
-     Temperature control, switch between different ones, rapidly.
-
-     Increases looks by up to max. 0.5
+***** Creation Process and Materials
+      - Materials: Brewed entirely with water.
+      - Process: Temperature control, switch between different ones, rapidly.
+      - Special conditions necessary: Need to brew it inside a mountain.
+***** Use/Effect:
+      Increases looks by up to max. 0.5. Requires 10 portions applied across 10
+      days. Half that amount but over same period of time for Pixie-Fairies.
 **** Cure for the Common Cold
-     Works within 30 minutes, can be made with common herbs found in most Fhokki
-     woods.
+***** Creation Process and Materials
+      - Materials: Can be made with common herbs found in most Fhokki woods.
+      - Creation Process: Unspecified, but known
+***** Use/Effect:
+      Within 30 minutes, cures common cold
 ** Abusables
    - Bottomless Pouch
    - Flaming Missiles
@@ -665,6 +676,59 @@
 *** Stirring Effects
     [[file:images/stirring-stuff.png]]
 
+*** Mage Spells
+    a. 
+       - Permanent Mark (1;3)
+       - Phantom Irritation (1)
+       - Aura of Innocence (2)
+       - Amplify Illumination (2)
+       - Buoyancy (3)
+       - Repair (4)
+       - Fire Finger (4)
+    j. [@j]
+       - Tireless Run (1)
+       - Audible Clamor (2;4)
+       - Enrage (3)
+
+
+    1. 
+       - Throw Voice (1)
+       - Magic Shield (2)
+       - Scorch (3;4)
+    2. 
+       - Slippery Surface (1;4)
+       - Illusory Leather Armor (2)
+       - Shocking Touch (3)
+    3. 
+       - White Hot Metal (1)
+       - Pyrotechnic Display (2)
+       - Flaming Missiles (3)
+       - Bedazzle (4)
+    4. 
+       - Motion Blur (1)
+       - Lesser Memory Wipe (2)
+       - Magic Projectile of Skewering (3;4)
+    5. 
+       - Summoning 1 (1)
+       - Munz's Bolt of Acid (2)
+       - Sense Invisible Beings (3)
+       - Entrancing Lightshow (4)
+    6. 
+       - Find Item (1;2)
+       - Immunity to Apprentice Magic (3)
+    7. 
+       - Induce Nervousness (1)
+       - Induce Fratricide (3)
+    8. 
+       - Sure Grip Snare (3)
+    9. 
+       - 
+    10. 
+    11. 
+    12. 
+    13. 
+    14. 
+    15. 
 ** Other
 *** Drunkenness
 **** Alcohol thresholds
@@ -678,5 +742,82 @@
      [[file:Rules/alcohol-effects_2017-08-27_14-34-52.jpg]]
      #+DOWNLOADED: file:///home/ajs/Documents/RPG%20shit/Hackmaster%20docs/Hackmaster/MeteorD's%20campaign%20-%20The%20Winter%20Kingdom/images/hangovers.png @ 2017-08-27 14:34:55
      [[file:Rules/hangovers_2017-08-27_14-34-55.png]]
-     
-     
+*** Skill List
+**** Io-Nis
+    - Rogue
+      - Core /(+3 minimum for Mastery Die)/
+        - Acting /(Cha, Lks)/: *65*
+        - Appraisals /(Int)/
+          
+          10%/15%/20% Bonus for related Novice/Average/Advanced+ skill.
+
+          Universal bonus-givers: Ancient History (Tharggy, Age of the Gods - Wild
+          Lands); Arcane Lore
+          1. Armor & Weaponry:  *42*
+             
+             Blacksmithing (+10%); Leatherworking (+10%); 
+          2. Artwork: *55*
+             
+             Almost anything can apply here, so apply on case-basis.
+          3. Books, Maps & Documents: *29*
+             
+             Creative Writing (+15%); Cartography (+15%);
+          4. Furs & Pelts: *34*
+             
+             Leatherworking (+10%);
+          5. Gems & Jewelry: *33*
+             
+             Geology (+15%); Blacksmithing (+10%)
+          6. Livestock: *26*
+
+             Animal Husbandry (Bees) (+10%); Cooking/Baking (+10%)
+          7. Spices & Perfumes: *37*
+             
+             Botany (+15%); Craft (Alchemy) (+15%); Cooking/Baking (+10%)
+          8. Sundries: *30*
+
+             Too general category, evaluate on case-basis.
+          9. Textiles: *24*
+        - Diplomacy /(Cha)/: *88*
+        - Disguise: *32* /(+15%)/
+          
+          Get a +15% bonus from Acting.
+        - Fast Talking: *42*
+        - Forgery: *87*
+        - Glean Information: *79*
+        - Language /(No Accent Talent)/: 
+          - Paelific: *82*
+          - Fhokki: *75*
+          - Reanaarian: *0*
+        - Listening: *40*
+        - Literacy
+          - Fhokki: *37*
+          - Paelific: *23*
+          - Reanaarian: *54*
+        - Salesmanship: *78*
+        - Seduction (Art of): *72*
+      - Extra /(+3 minimum for Mastery Die)
+        - Climbing/Rappelling: *0*
+        - Current Affairs: *0*
+        - Gambling: *20*
+        - Hiding: *0*
+        - History (Ancient) /(Int)/
+          - Wild Lands (Age of the Gods): *61*
+          - Tharggy (620-820): *20*
+        - Lock Picking: *0*
+        - Musician
+          - Voice: *32*
+        - Observation: *0*
+        - Oration: *92*
+        - Persuasion: *69*
+        - Pick Pocket: *0*
+        - Reading Lips: *0*
+        - Recruiting: *52*
+        - Riddling: *0*
+        - Scrutiny: *20*
+        - Skilled Liar: *59*
+        - Sneaking: *21*
+        - Survival (urban): *0*
+      - Mathematics: *25*
+
+        Provides 5% per level to Carpentry and Cartography
