@@ -677,18 +677,18 @@
     [[file:images/stirring-stuff.png]]
 
 *** Mage Spells
-    a. 
-       - Permanent Mark (1;3)
-       - Phantom Irritation (1)
-       - Aura of Innocence (2)
-       - Amplify Illumination (2)
-       - Buoyancy (3)
-       - Repair (4)
-       - Fire Finger (4)
-    j. [@j]
-       - Tireless Run (1)
-       - Audible Clamor (2;4)
-       - Enrage (3)
+    - Apprentice ::
+      - Permanent Mark (1;3)
+      - Phantom Irritation (1)
+      - Aura of Innocence (2)
+      - Amplify Illumination (2)
+      - Buoyancy (3)
+      - Repair (4)
+      - Fire Finger (4)
+    - Journeyman ::
+      - Tireless Run (1)
+      - Audible Clamor (2;4)
+      - Enrage (3)
 
 
     1. 
@@ -707,14 +707,14 @@
     4. 
        - Motion Blur (1)
        - Lesser Memory Wipe (2)
-       - Magic Projectile of Skewering (3;4)
+       - Magic Projectile of Skewering (3;4;Ella)
     5. 
        - Summoning 1 (1)
        - Munz's Bolt of Acid (2)
        - Sense Invisible Beings (3)
        - Entrancing Lightshow (4)
     6. 
-       - Find Item (1;2)
+       - Find Item (1;2;Ella)
        - Immunity to Apprentice Magic (3)
     7. 
        - Induce Nervousness (1)
@@ -726,9 +726,6 @@
     10. 
     11. 
     12. 
-    13. 
-    14. 
-    15. 
 ** Other
 *** Drunkenness
 **** Alcohol thresholds
